@@ -1,0 +1,12 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Dependencies (if you add a build step later)
+node_modules/
+.next/
+
+# THE WHITMAN PROTOCOL SECRETS
+# This folder will stay on your computer and never push to GitHub
+not-shared/*
+!not-shared/.gitkeep
