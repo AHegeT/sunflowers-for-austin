@@ -43,28 +43,28 @@ But there were also notes on the Green Hand cities and how they were slowly catc
 The binder continued into a new section, recounting events Natalia had just read about in history books. The time before the Hum, when cities started to collapse and the endeavors to counteract it with technological inventions was coming to a clash. "200 million dead", "nations collapsing", "x species lost". She hated reading about the 2030s. The 39ers might think the solution was hidden in that decade, but all she could think about was the widespread misery that started during that decade…and how it kept going for decades to come. "Enough misery to go around". The topic depressed her, but when she looked up, she realized they were now in Restoriationist territory. There was finally some greenery here and ther, and you could see the Girasoles doing their work to keep it that way. The marvels of technology would capture the sun's power, release moisture during the night, intertwine with the local flora, produce nutrients and reflect most of the rays in its invisible net. They were purple towers, 10 feet tall, with petal-like structures at the top. They would always be rotating with the wind. She knew there were many prototypes now that worked more efficiently or did one of those jobs more effectively depending on the terrain, but to the desperate people of decades past, this was their last restort so they could hopefully come back to a better world.
 
 She looked at the old man, who was looking out at the landscape, and she decided to approach him.
-They look peaceful, don't they?
-Yes, they feel peaceful.
-Were you around when they set them up?
-I was. I set up my share of them.
-So I take it you're a Remainer.
-Haha, I wish. It wasn't the full decade, but I missed some years.
-I see. I'm a therapist working with Returners. Can I ask you some questions? Do you ever get night terrors? You know, the--
-Yes, TDS, I know where you're going. Do you want me to respond the questionnaire or does it suffice to say that I still have it?
-I'm sorry, I didn't want to assume…
-The TDS is the least of my worries. I have 3 types of cancer that just keep coming back. I'm healthy enough to keep up with my work, but my son wants me to go south.
-You think they'll be able to cure it?
-No, I think it's a death sentence. He won't say it, but he thinks it's a good chance for me to enjoy the time I have left…so I'm choosing to try to think like him.
-I'm sorry…
-I had family down there. I realized I don't mind it if I get to see them again…I'm feeling hopeful about it.
-I hope you find them.
-Are you going to see someone? You seemed restless.
-A mentor I had, he sent for me. Bought me the ticket and all. I think he wants to believe there's been a breakthrough with TDS.
-And is that why you were pacing around?
-No…I haven't left Texas in the longest time. I don't know what I'll find.
-Haha, so you and I are walking the same road! I knew your anxiety felt familiar. What do you do when you feel jittery like that?
-I read. Take in some more patients. And you?
-I sing.
+- They look peaceful, don't they?
+- Yes, they feel peaceful.
+- Were you around when they set them up?
+- I was. I set up my share of them.
+- So I take it you're a Remainer.
+- Haha, I wish. It wasn't the full decade, but I missed some years.
+- I see. I'm a therapist working with Returners. Can I ask you some questions? Do you ever get night terrors? You know, the--
+- Yes, TDS, I know where you're going. Do you want me to respond the questionnaire or does it suffice to say that I still have it?
+- I'm sorry, I didn't want to assume…
+- The TDS is the least of my worries. I have 3 types of cancer that just keep coming back. I'm healthy enough to keep up with my work, but my son wants me to go south.
+- You think they'll be able to cure it?
+- No, I think it's a death sentence. He won't say it, but he thinks it's a good chance for me to enjoy the time I have left…so I'm choosing to try to think like him.
+- I'm sorry…
+- I had family down there. I realized I don't mind it if I get to see them again…I'm feeling hopeful about it.
+- I hope you find them.
+- Are you going to see someone? You seemed restless.
+- A mentor I had, he sent for me. Bought me the ticket and all. I think he wants to believe there's been a breakthrough with TDS.
+- And is that why you were pacing around?
+- No…I haven't left Texas in the longest time. I don't know what I'll find.
+- Haha, so you and I are walking the same road! I knew your anxiety felt familiar. What do you do when you feel jittery like that?
+- I read. Take in some more patients. And you?
+- I sing.
 
 And the old man began to sing an old song Natalia couldn't make out, but that she could understand. She leaned into the headrest of the seat in front of the man and listened wistfully as he kept on singing. From time to time, the old man would smile and she'd respond with another smile. Maybe this trip would be good to her…
 It was then that they went into a tunnel briefly and they came out the other side to find themselves inside a Red Zone. This one was worse than before, with the destroyed remains of a full town in the distance. They must be approaching Mexico City…
@@ -107,23 +107,25 @@ Further away, she could see what she remembered of the Tepozteco, the small moun
 The train rushed to the station, like it was in a hurry to finally get home. She felt a strange nostalgia and then choked up with a hint of pain. "A bad omen", she felt.
 
 After grabbing her things and stashing the book away in the satchel, she got off the train and admired the plant-filled station with the stylish metalwork decor. She looked around until she saw--
-Monty!
+- Monty!
+
 The burly man was staring calmly at her. Seeing him made her tear up almost instantly. He was just standing there, with a peaceful smile, looking at her…
-Welcome back, Natalia. Let me handle that luggage for you.
+- Welcome back, Natalia. Let me handle that luggage for you.
 He effortlessly carried the bag that had been weighing on her all the way to the train station in Austin, then turned around, put it over his shoulder and started walking.
-Montante, where are you going? Is that all you're going to say? I haven't seen you in forever and--
-We need to take care of something before I drop you off home.
-An errand?
-Of sorts. I need to call off the search.
+- Montante, where are you going? Is that all you're going to say? I haven't seen you in forever and--
+- We need to take care of something before I drop you off home.
+- An errand?
+- Of sorts. I need to call off the search.
 
 The excitement and relief she had been feeling, the sense of serendipity she felt when she saw him again, they had all faded by the time he was done.
-Thank you captain. For all your efforts.
-You be well, Montante. I'm sorry for your loss.
+- Thank you captain. For all your efforts.
+- You be well, Montante. I'm sorry for your loss.
 Natalia just kept following in disbelief as he dropped her off at the station.
-Ride the train to Trado. Go to this address (he handed her a piece of paper). I left some dinner out for you and Miss Lina will show you were everything is. I'll come by tomorrow to explain a little more. Try to get some sleep.
-Are you…sure it's him?
-Yeah, and judging by his telling you to come here, I think it was no accident. He planned it, Natalia.
-But he can't be…
-He's dead. I saw the body. I'd be more surprised if it wasn't suicide at this point. Whatever sick message Leon wanted to send, he wanted to make sure we were both here to get it. And that he made a statement with it. If that´s not the most Leon thing he could do to scamper off this world…
+- Ride the train to Trado. Go to this address (he handed her a piece of paper). I left some dinner out for you and Miss Lina will show you were everything is. I'll come by tomorrow to explain a little more. Try to get some sleep.
+- Are you…sure it's him?
+- Yeah, and judging by his telling you to come here, I think it was no accident. He planned it, Natalia.
+- But he can't be…
+- He's dead. I saw the body. I'd be more surprised if it wasn't suicide at this point. Whatever sick message Leon wanted to send, he wanted to make sure we were both here to get it. And that he made a statement with it. If that´s not the most Leon thing he could do to scamper off this world…
+
 Natalia rode the train alone to wherever she was off to next. She felt intense pressure on her chest, that had been building up long before this trip, but that she had finally allowed to bubble up to the surface. "All for nothing…it was all for nothing…"
 She looked at the night sky and realized she was in a strange country, far from home, with a man she no longer knew and a dream that no longer lived. She hugged the book from her satchel and started crying, sobbing, while there was nobody on the train cart who could hear her.
