@@ -1,7 +1,7 @@
 ---
 title: "Leaving Austin"
 status: "Draft"      # Options: Draft, Polished, Final
-concept_art: "/assets/concept-art/prologue-mood.png"
+concept_art: "/assets/concept-art/chapter1_train_reading.png"
 last_updated: 2026-02-09
 ---
 
@@ -129,3 +129,5 @@ Natalia just kept following in disbelief as he dropped her off at the station.
 
 Natalia rode the train alone to wherever she was off to next. She felt intense pressure on her chest, that had been building up long before this trip, but that she had finally allowed to bubble up to the surface. "All for nothing…it was all for nothing…"
 She looked at the night sky and realized she was in a strange country, far from home, with a man she no longer knew and a dream that no longer lived. She hugged the book from her satchel and started crying, sobbing, while there was nobody on the train cart who could hear her.
+
+![Concept Art](/assets/concept-art/chapter1_train_reading.png)
