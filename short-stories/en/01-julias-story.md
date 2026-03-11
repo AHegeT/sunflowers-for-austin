@@ -1,3 +1,10 @@
+---
+title: "Julia's Story"
+status: "Draft"      # Options: Draft, Polished, Final
+concept_art: "/assets/concept-art/julia-long-lifer.png"
+last_updated: 2026-03-10
+---
+
 Julia Valdesienne? Yes, of course I know her. Most people don't remember her, just the name. But I still do. She ruined my life. She ruined everyone's life. She basically ruined everything. But she also owned up to it. I can respect that.
 She wasn't one of the rich people who cowardly ran away and uploaded to the Yosemite-C while we toiled away to clean up after them. She stayed.
 So I'm one of the few people who have known the two Julias. Both are cowards, but one's a selfish prick and one's a martyr. I hope death hasn't found her yet.
@@ -67,3 +74,5 @@ I think she was just scared of staying here longer. Of making a home of this vil
 So yes, I know Julia. At least, this is all I know about her.
 For this story, I expect a good trade, yes? Although...if I can ask for a favor, and not just a trade...
 Tell her I miss her, if you ever find her. She won't know who I am, but tell her all the same.
+
+![Concept Art](/assets/concept-art/julia-long-lifer.png)

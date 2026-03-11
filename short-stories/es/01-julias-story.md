@@ -1,3 +1,10 @@
+---
+title: "Julia's Story"
+status: "Draft"      # Options: Draft, Polished, Final
+concept_art: "/assets/concept-art/julia-long-lifer.png"
+last_updated: 2026-03-10
+---
+
 ¿Julia Valdesienne? Sí, claro que la conozco. La mayoría de la gente no la recuerda, solo el nombre. Pero yo sí. Me arruinó la vida. Arruinó la vida de todos. Básicamente lo arruinó todo. Pero también lo reconoció. Yo respeto eso.
 No era una de esas personas ricas que se escaparon cobardemente y subieron al Yosemite-C mientras nosotros nos esforzábamos por limpiar el desastre que dejaron. Ella se quedó.
 Así que soy una de las pocas personas que ha conocido a las dos Julias. Ambas son cobardes, pero una es una egoísta insoportable y la otra una mártir. Espero que la muerte no la haya encontrado todavía.
@@ -63,3 +70,6 @@ Creo que simplemente tenía miedo de quedarse aquí más tiempo. De hacer de est
 Así que sí, conozco a Julia. Al menos, esto es todo lo que sé de ella.
 Por esta historia, espero un buen intercambio, no? Aunque... si puedo pedirte un favor, y no solo un intercambio...
 Dile que la extraño, si alguna vez la encuentras. No sabrá quién soy, pero díselo de cualquier manera.
+
+
+![Concept Art](/assets/concept-art/julia-long-lifer.png)
