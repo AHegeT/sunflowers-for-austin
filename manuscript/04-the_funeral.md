@@ -1,7 +1,7 @@
 ---
 title: "The Funeral"
 status: "Draft"      # Options: Draft, Polished, Final
-concept_art: "/assets/concept-art/chapter5_hacienda_funeral.png"
+concept_art: "/assets/concept-art/chapter4_hacienda_funeral.png"
 last_updated: 2026-04-19
 ---
 
@@ -367,4 +367,4 @@ Kaelo- You should be careful to watch where you're going. I will help you this t
 The man got on a vehicle and left. She stayed dumbfounded on the ground and she heard Paloma rushing towards her in the distance. She looked at the newborn creature in front of her. It was smiling and staring intently at her. So vulnerable and strange…
 Natalia- Codi, huh? …Welcome home.
 
-![Concept Art](/assets/concept-art/chapter5_hacienda_funeral.png)
+![Concept Art](/assets/concept-art/chapter4_hacienda_funeral.png)
