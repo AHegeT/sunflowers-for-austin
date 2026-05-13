@@ -6,6 +6,9 @@ Thumbs.db
 node_modules/
 .next/
 
+# mdBook build output
+book/
+
 # THE WHITMAN PROTOCOL SECRETS
 # This folder will stay on your computer and never push to GitHub
 not-shared/*
