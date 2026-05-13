@@ -18,30 +18,30 @@ She walked down to the first floor and found Miss Lina, the elderly woman who ow
 She greeted Natalia and carried on with her day, Monty was dumbstruck.  
 "I hope you had a good nap", said Miss Lina.
 
-- I…did?  
-- You seem well.
+— I…did?  
+— You seem well.
 
 Monty had a silly smile on his face. His mountainous figure took up most of the tiny room inbetween the kitchen and the livingroom. The house was quaint and she wasn't sure about the details of the arrangement. They arrived in the middle of the night and she hadn't had much interaction with Miss Lina, other than coldly refusing the meals she made for her.
 
-- Sorry, let me help you with this\!  
-- No need, girl. You should get ready instead. It's your first day of school, remember?  
-- Ah, no, that's on Monday…  
-- What day do you think it is? All that spacing out didn't do you any favors. You won't be getting that time back.  
-- That's a delicate subject, Nana…
+— Sorry, let me help you with this\!  
+— No need, girl. You should get ready instead. It's your first day of school, remember?  
+— Ah, no, that's on Monday…  
+— What day do you think it is? All that spacing out didn't do you any favors. You won't be getting that time back.  
+— That's a delicate subject, Nana…
 
 Miss Lina was clearly bothered, and Natalia wasn't surprised. She knew that out here, TDS wasn't taken very seriously and someone older like Miss Lina probably viewed it with skepticism. No, it was said as sorrowful advice. "She must be a Returner. 4, 6…8 years?", Natalia thought. She imagined what it must've been like for an older woman like her to wake up after 8 years in an older, more fragile body.  
 She focused on the task at hand. It had taken her more than a couple hours to compose herself, it clearly. Monty started to get up to see how he could help her.
 
-- You don't have to start today…  
-- No, I'm ready.  
-- You don't even know what subject you're supposed to be teaching.  
-- Is it not Psychology?  
-- Oh no…
+— You don't have to start today…  
+— No, I'm ready.  
+— You don't even know what subject you're supposed to be teaching.  
+— Is it not Psychology?  
+— Oh no…
 
 It was Philosophy and Ethics, her most disliked subject. She started to feel flushed and nervous, but she knew she could get by for the first day if she just studied the material properly.
 
-- Of course…just lend me the syllabus and his class notes. Leon may have been a mess in his personal life, but he was nothing if not organized.  
-- I don't know how helpful these will be…
+— Of course…just lend me the syllabus and his class notes. Leon may have been a mess in his personal life, but he was nothing if not organized.  
+— I don't know how helpful these will be…
 
 He handed her a binder full of pages in disarray. She tried not to let the anxiety take over and instead laid them all out on the table. She took a step back and allowed her brain to take in the information, then closed her eyes and thought of a familiar place. Her Austin apartment. She didn't have time, so something familiar would do. She started arranging the concepts and a minute later, opened her eyes to find Monty looking at her sternly with his mouth open.  
 Monty: Is this a Continuum thing?  
@@ -59,22 +59,22 @@ It was hard to find architecture this old in Austin. At least, nothing that was 
 
 She noticed quickly that this was no regular highschool like the ones in Austin, there were few terminals to access knowledge but more importantly, some kids did not look like teenagers at all. She could see some wearing a lavander sweater, others an olive green one, some here and there with deep blue. There was no rhyme or reason based on their appearance. Some looked like they could be in their early 20s.
 
-- This…is odd. What do the colors mean?  
-- Ah, of course, this may be different for you. You'll be teaching the olives, those are the 10th graders. They have to use colors to integrate the Remainers and the Returners.
+— This…is odd. What do the colors mean?  
+— Ah, of course, this may be different for you. You'll be teaching the olives, those are the 10th graders. They have to use colors to integrate the Remainers and the Returners.
 
 Not at all what she was used to. 
 
 Natalia had not seen cohorts this homogenous. She was used to groups of people of wildly different ages that were formed by their mental age, not their biological age. Could it be that…
 
-- Is this school only for Remainers?  
-- Not officially.
+— Is this school only for Remainers?  
+— Not officially.
 
 She could see the discomfort in his face. He clearly d
 
--   
-- …that's one of the many reasons I would rather not be teaching here.  
-- Yes, but you're a Remainer. And…I'm not.  
-- Yes, but so was Leon. Maybe that's why he was teaching here? I think Directora Mendez will like your fast-paced Austin approach.
+—   
+— …that's one of the many reasons I would rather not be teaching here.  
+— Yes, but you're a Remainer. And…I'm not.  
+— Yes, but so was Leon. Maybe that's why he was teaching here? I think Directora Mendez will like your fast-paced Austin approach.
 
 She could see the logic. The Coalition had made great strides in reintegrating both camps in Austin, primarily by using an advanced curriculum from the 30s that got everyone up to speed.  
 She wished she had access to that curricula now.
@@ -303,15 +303,15 @@ She went to the library, but there were too many kids there, so she went to the 
 Her childhood had never been like that. She grew up with supportive friends. It would be whimsical and fun, never…painful. Her training did not help, other than to stop her from having a full on panic attack. She felt so stupid. A therapist who couldn't give a lecture to highschool students or even calm down after the fact.  
 She heard some foosteps coming down the stairs toward her, and she quickly composed herself as best she could. Monty must've heard all the ruckus and gone looking for her, but how did he find her?
 
-- I'm sorry…
+— I'm sorry…
 
 A smaller body sat down next to her. Her arms folded over her legs.
 
-- I thought it would help me. Maybe if I said what everyone was thinking…
+— I thought it would help me. Maybe if I said what everyone was thinking…
 
 Natalia turned around to find the girl with curly brown hair. 
 
-- It would stop them from picking on me.
+— It would stop them from picking on me.
 
 Natalia wasn't sure what to make of this girl. Her instinct was to go back to the teacher persona, but she thought of what Monty said. Maybe this was a new opportunity.  
 N- Why…do they pick on you?  
@@ -396,8 +396,8 @@ N- Paloma, give Victor your xylophone, and tell him how to make a different nois
 
 She did and then Natalia proceeded to instruct Victor to make the noise every time the serious student deflected. Then she told Delia to get up if Victor ever told a lie or made a mistake. The student began an angry tirade at Natalia and Victory kept hokning and honking the instrument, but Delia did not get up. When the student started to become infuriated, two others next to him got up and one of themsaid
 
-- Stop it\! This is not how a teacher should behave\!  
-- Is he deflecting, Victor?
+— Stop it\! This is not how a teacher should behave\!  
+— Is he deflecting, Victor?
 
 Victor sounded the horn.  
 N- What is his name?  
