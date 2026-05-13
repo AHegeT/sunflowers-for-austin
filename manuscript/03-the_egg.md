@@ -308,5 +308,5 @@ She opened her eyes to find herself back in the dark room. Her body with her onc
 
 — It just…turned into an egg.
 
-![Concept Art](/assets/concept-art/chapter3_codex2.png)
-![Concept Art](/assets/concept-art/chapter3_the_egg.png)
+![Concept Art](assets/concept-art/chapter3_codex2.png)
+![Concept Art](assets/concept-art/chapter3_the_egg.png)
