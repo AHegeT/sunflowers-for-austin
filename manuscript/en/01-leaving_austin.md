@@ -1,9 +1,12 @@
-Leaving Austin
+---
+title: "Leaving Austin"
+status: "Draft"      # Options: Draft, Polished, Final
+concept_art: "/assets/concept-art/chapter1_train_reading.png"
+last_updated: 2026-02-09
+---
 
-And then she finally let her breath catch up. Sitting on the train, she could still feel her heart pounding, trying to catch up. It was not like her to almost miss her train. Then again, this wasn't just any trip.
-Natalia started to analyze her likely hesitancy for the trip and quickly stopped herself. "No wasting" she thought to herself, and immediately started channeling her thoughts into the multiple cases of patients she was leaving behind. And the train started moving.
+# Leaving Austin
 
-The trip to Mexico would take roughly 6.2 hours and she had only 1 hour left in the network of the Republic of Texas. She could finish the notes on the Tenneman case to Caroll in 15 minutes if she rushed.
 
 
 And then she finally let her breath catch up. Sitting on the train, she could still feel her heart pounding, trying to catch up. It was not like her to almost miss her train. Then again, this wasn't just any trip.  
