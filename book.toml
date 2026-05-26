@@ -1,7 +1,13 @@
 [book]
 title = "Sunflowers for Austin"
-src = "manuscript"
+src = "manuscript/en"
+language = "en"
+
+[build]
+build-dir = "book/en"
 
 [preprocessor.frontmatter-strip]
 
 [output.html]
+
+# Local development only — Vercel uses: mdbook build manuscript/en && mdbook build manuscript/es

@@ -1,0 +1,11 @@
+[book]
+title = "Girasoles para Austin"
+src = "."
+language = "es"
+
+[build]
+build-dir = "../../book/es"
+
+[preprocessor.frontmatter-strip]
+
+[output.html]

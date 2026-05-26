@@ -1,4 +1,7 @@
 {
-  "buildCommand": "curl -sSL https://github.com/rust-lang/mdBook/releases/download/v0.4.40/mdbook-v0.4.40-x86_64-unknown-linux-gnu.tar.gz | tar -xz && cargo install mdbook-frontmatter-strip && ./mdbook build",
-  "outputDirectory": "book"
+  "buildCommand": "curl -sSL https://github.com/rust-lang/mdBook/releases/download/v0.4.40/mdbook-v0.4.40-x86_64-unknown-linux-gnu.tar.gz | tar -xz && cargo install mdbook-frontmatter-strip && ./mdbook build manuscript/en && ./mdbook build manuscript/es",
+  "outputDirectory": "book",
+  "redirects": [
+    { "source": "/", "destination": "/en/", "permanent": false }
+  ]
 }

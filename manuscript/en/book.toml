@@ -1,0 +1,11 @@
+[book]
+title = "Sunflowers for Austin"
+src = "."
+language = "en"
+
+[build]
+build-dir = "../../book/en"
+
+[preprocessor.frontmatter-strip]
+
+[output.html]
