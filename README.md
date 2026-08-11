@@ -19,8 +19,10 @@ This book is built with [mdBook](https://rust-lang.github.io/mdBook/).
 
 **Setup**
 ```sh
-cargo install mdbook mdbook-frontmatter-strip
+cargo install mdbook --version 0.5.4 --locked
+cargo install mdbook-frontmatter-strip --version 1.1.3 --locked
 ```
+> These versions must match the ones pinned in [`vercel.json`](vercel.json)'s `buildCommand` — `mdbook` and `mdbook-frontmatter-strip` are versioned independently, and an unpinned `cargo install` silently grabs the latest preprocessor release, which can break compatibility with an older pinned `mdbook` binary.
 
 **Useful commands**
 | Command | What it does |
@@ -29,6 +31,7 @@ cargo install mdbook mdbook-frontmatter-strip
 | `mdbook serve manuscript/es` | Serves the Spanish edition locally with live reload |
 | `mdbook build manuscript/en && mdbook build manuscript/es` | Builds both editions into `book/`, mirroring the production build ([`vercel.json`](vercel.json)) |
 | `./.scripts/replace-hyphen.sh` | Converts dialogue lines that start with `- ` into proper em-dashes (`— `) across `manuscript/en` and `manuscript/es` so mdBook renders them correctly. Safe to re-run. |
+| `./.scripts/bump-mdbook.sh` | Checks for newer `mdbook` / `mdbook-frontmatter-strip` releases, test-builds both editions locally, and — only if that succeeds — updates the version pins in `vercel.json` and this README together. Leaves everything untouched if the test build fails. |
 
 ### License
 * **The Story (Prose):** [CC BY-NC-ND 4.0](LICENSE-PROSE)
