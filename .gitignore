@@ -13,3 +13,5 @@ book/
 # This folder will stay on your computer and never push to GitHub
 not-shared/*
 !not-shared/.gitkeep
+.vercel
+.env*
