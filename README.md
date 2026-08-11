@@ -31,5 +31,5 @@ cargo install mdbook mdbook-frontmatter-strip
 | `./.scripts/replace-hyphen.sh` | Converts dialogue lines that start with `- ` into proper em-dashes (`— `) across `manuscript/en` and `manuscript/es` so mdBook renders them correctly. Safe to re-run. |
 
 ### License
-* **The Story (Prose):** [Choose a license, e.g., CC-BY-NC-ND 4.0]
-* **The Code/Structure:** MIT License
+* **The Story (Prose):** [CC BY-NC-ND 4.0](LICENSE-PROSE)
+* **The Code/Structure:** [MIT License](LICENSE)
