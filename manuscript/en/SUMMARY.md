@@ -4,4 +4,4 @@
 — [The First Day](02-the_first_day.md)
 — [The Egg](03-the_egg.md)
 — [The Funeral](04-the_funeral.md)
-— [The Mountains](05-the_mountains.md)
+— [The Song of the Mountain](05-the_song_of_the_mountains.md)
