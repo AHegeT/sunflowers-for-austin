@@ -2,9 +2,9 @@ The image of Leon was becoming clearer. They were in what looked like a jungle. 
 She tried looking further. Did she enter the spaceship? She tried to investigate inside her memories and she immediately felt the "drop". Everything around her was spinning, but there was no ground to hold on to, no time or sense of her own body. But there was the image of Leon. She tried to follow him through the maelstrom. She could feel him so close, like she could almost remember something…
 Then a weight on her shoulder woke her up.
 The strange creature was staring intently at het, perched on her chest.
-Ñam ñam?
-Huh?
-Ñam ñam, ñam ñam?
+— Ñam ñam?
+— Huh?
+— Ñam ñam, ñam ñam?
 
 
 
@@ -58,191 +58,193 @@ They just call it lucid learning there.
 Alvin was initially set to dismiss them, but Valeria earnestly asks her questions about her procedure and how they're planning to reupload. She asks if he believes they will be able to recover their memories in there.
 Alvin tells her he believes they should be intact, as the people in the pods are still alive and dreaming. It's just that the technology is far too advanced for them to decipher. They can record the brain patterns but cannot decipher them.
 Claus wonders if he thinks the sleepers ever try to communicate.
-We know they sometimes send messages but we cannot decode them. They're trying to reach out to us.
-How do they do that?
-There's a way to encode information in frequencies.
-Like our gloves!
-Ha, not quite, it is much more sophisticated than your toys. Alvin scoffs.
+— We know they sometimes send messages but we cannot decode them. They're trying to reach out to us.
+— How do they do that?
+— There's a way to encode information in frequencies.
+— Like our gloves!
+— Ha, not quite, it is much more sophisticated than your toys. Alvin scoffs.
 
 At that moment, another researcher arrives, named Bruno.
 
-And that is why I should have already left.
+— And that is why I should have already left.
 Alvin was trying to avoid Bruno, but lingered too long. Bruno takes the opportunity to mock Alvin.
-Still clinging to your glory days? You should try reading some ancient texts to see if they hold insights on how to access the Yosemite C.
+— Still clinging to your glory days? You should try reading some ancient texts to see if they hold insights on how to access the Yosemite C.
 The two start to bicker. Clearly, Bruno thinks it's foolish to reuse pods that already broke once.
-If you spent half the time you spend studying archaic texts instead trying to figure out how to get back into a club that clearly doesn't want you, we would probably already have a new space up and running.
-What do you mean? Asked one of the kids.
-The Yosemite Continuum was not man-made, which is why we can't just find a way back. It's like if there was a cave in inside a tunnel, splitting one group and the other. It's better to find a new path instead of trying to excavate and risk another cave in.
-Kicked out of a club? Responds Alvin. You're the one who was kicked out! You were always at the bottom of the class!
+— If you spent half the time you spend studying archaic texts instead trying to figure out how to get back into a club that clearly doesn't want you, we would probably already have a new space up and running.
+— What do you mean? Asked one of the kids.
+— The Yosemite Continuum was not man-made, which is why we can't just find a way back. It's like if there was a cave in inside a tunnel, splitting one group and the other. It's better to find a new path instead of trying to excavate and risk another cave in.
+— Kicked out of a club? Responds Alvin. You're the one who was kicked out! You were always at the bottom of the class!
 
 Alvin reveals Bruno and him studied together, with neither one scoring too well. But at least Bruno was refused from an elite research program where Alvin was kicked out.
-You were accepted just as part of the quota. Need I remind you that you were kicked out? How does it feel to be kicked out twice?
+— You were accepted just as part of the quota. Need I remind you that you were kicked out? How does it feel to be kicked out twice?
 
 Their bickering continues, Santiago steps in and makes a joke to relieve the tension. This works for long enough that Alvin decides to go back to sleep.
 Bruno feeling freed of him, grateful for Santiago's joke, explains that he'll now show them where the real magic happens.
 He takes them to a second room with pods, albeit much smaller. The class is unimpressed. He explains they're building new pods here that they will actually understand and use to tap into a new space in the Continuum. They don't need the old space.
-What will happen to the people that are still sleeping?
-We'll eventually transfer them to these pods.
-But won't that mean they will lose their memories?
-Perhaps, but who cares? If those pods failed twice, they are likely to fail again.
-Twice? I thought everyone woke up at once. That's one of the mysteries--how could everyone on the planet wake up at the exact same time? Was it planned or just a system failure?
-Not at the exact same time, actually. There was a .5 millisecond gap.
+— What will happen to the people that are still sleeping?
+— We'll eventually transfer them to these pods.
+— But won't that mean they will lose their memories?
+— Perhaps, but who cares? If those pods failed twice, they are likely to fail again.
+— Twice? I thought everyone woke up at once. That's one of the mysteries--how could everyone on the planet wake up at the exact same time? Was it planned or just a system failure?
+— Not at the exact same time, actually. There was a .5 millisecond gap.
 
 Most of the children were surprised, they had always heard it was instantaneous.
-0.42 milliseconds, to be precise.
-What do you think was the reason for that?
-Guillible people like Alvin think that shows it wasn't a mistake, like it was an emergency release proving the system was perfect as it is. I actually believe it was an intentional failsafe. We all know time moves differently inside the Continuum, so a gap of .5 milliseconds might've been days in there. The system wasn't able to handle so much pressure, so they had to eject a sizeable portion of people to stabilize it. And, of course, they ejected some of the brightest minds first to figure out what was going on, with the second line being the less-impressive backup, like Alvin. What is curious is that it was precisely half and half.
+— 0.42 milliseconds, to be precise.
+— What do you think was the reason for that?
+— Guillible people like Alvin think that shows it wasn't a mistake, like it was an emergency release proving the system was perfect as it is. I actually believe it was an intentional failsafe. We all know time moves differently inside the Continuum, so a gap of .5 milliseconds might've been days in there. The system wasn't able to handle so much pressure, so they had to eject a sizeable portion of people to stabilize it. And, of course, they ejected some of the brightest minds first to figure out what was going on, with the second line being the less-impressive backup, like Alvin. What is curious is that it was precisely half and half.
 
 Natalia already knew this, of course. She never thought much of it. She noticed Paloma was strangely distant throughout the explanation, away from the group and looking at the pods. She went to her.
-Who cares if they build new pods. This is so boring.
-I thought you'd find this interesting.
-It's not. They bicker, but both of them are desperate to get out of this world. Typical Returners.
-Do you not want to find a way back? - Codi spruced up, waking of from a nap.
-Not really. I never went to the Sea, I have no interest in going there. I would hope they bring the people back, though. My family is still sleeping, they're taking their sweet time.
-I didn't know that. Don't you ever get lonely?
-Nah, it's much more fun out here. They're just a bunch of scarey cats who can't deal.
+— Who cares if they build new pods. This is so boring.
+— I thought you'd find this interesting.
+— It's not. They bicker, but both of them are desperate to get out of this world. Typical Returners.
+— Do you not want to find a way back? - Codi spruced up, waking of from a nap.
+— Not really. I never went to the Sea, I have no interest in going there. I would hope they bring the people back, though. My family is still sleeping, they're taking their sweet time.
+— I didn't know that. Don't you ever get lonely?
+— Nah, it's much more fun out here. They're just a bunch of scarey cats who can't deal.
 
 Meanwhile, Claus asks if they ever try to communicate with the sleeping people, again.
-We've tried, we know we're able to send messages and they react to them, though if they respond, clearly not in any intelligent fashion.
-Alvin said they try to communicate with you, is that true?
-No, I've never seen any signal coming from them, he must be projecting his wishes.
+— We've tried, we know we're able to send messages and they react to them, though if they respond, clearly not in any intelligent fashion.
+— Alvin said they try to communicate with you, is that true?
+— No, I've never seen any signal coming from them, he must be projecting his wishes.
 Then…there's no way to communicate with them?
-We can send messages. We see them react, like they're waiting for us to get them out of whatever world they're stuck in. I think we made a mistake, trapping them in the Yosemite-C. Perhaps it's not so welcoming as we once thought. Maybe even hostile.
+— We can send messages. We see them react, like they're waiting for us to get them out of whatever world they're stuck in. I think we made a mistake, trapping them in the Yosemite-C. Perhaps it's not so welcoming as we once thought. Maybe even hostile.
 
 Some of the students grew uncomfortable with this implication. Monty decided it was time to end the visit.
 Natalia wondered however about the ability to send messages. So she decided to ask.
-Do you ever…try to communicate with them in a TDS fugue?
-What? No, of course not! What a silly idea! Any time spent in TDS is a dangerous waste of time. If you experience it too often, you may never come back out.
+— Do you ever…try to communicate with them in a TDS fugue?
+— What? No, of course not! What a silly idea! Any time spent in TDS is a dangerous waste of time. If you experience it too often, you may never come back out.
 
 Natalia wondered about this, so she decided to step away for a moment. She held Codi in her hands, looking straight into his eyes. He smiled warmly at her, so she embraced him and…let herself go.
 
 The whirlwind took over, though she was able to ground herself quickly thanks to Codi's presence. She could see herself floating outside, looking at the mountain. She could see the millions of pods glowing through it, lighting up blue beams of light up to the sky. It was a serene view. She stood there for a moment until something pulled her violently back inside, to her own body.
 Monty was shaking her shoulder.
-Natalia? Are you okay?
-Sorry, I spaced out for a moment.
-Hmmm…that didn't look like spacing out. Is everything okay?
-Yes, yes, of course. We should head out.
+— Natalia? Are you okay?
+— Sorry, I spaced out for a moment.
+— Hmmm…that didn't look like spacing out. Is everything okay?
+— Yes, yes, of course. We should head out.
 
 ---
 
 They went to the small town where they were going to spend the night. After eating a hearty meal of fish and handpicked mushroom quesadillas, they retreated to their cabins.
 She was staying with Monty and two of the children.
 
-What a strange day.
-How so? Asked Monty. Perhaps you just need to sleep.
-Everyone was so calm. It went so well.
-Really? I thought it was very uncomfortable. Thinking there are people still sleeping there…that they could wake up at any time. Like we could trigger an avalanche with any sudden move.
-Huh, it felt so different for me. I used to have nightmares about that day. Waking up, finding myself in a body I barely recognized, surrounded by people just as disconcerted. When I went to sleep…I thought we were doing something good. Like we were giving the planet a chance to heal back up.
-Mighty generous of you. But in a way, you did. Not having donkeys like Alvin getting in our way allowed the people who stayed over to actually figure out a way to build back. No offense.
-None taken. I actually could relate to Alvin. Very much. I was also part of the second wave, you know?
-Oh?
-I didn't think much of it at first. But was if we were actually sent as back up? What if Leon didn't trigger the first wave and it was actually a system failure. But he then sent some back up to help stabilize the influx of people.
-You're having too good of an interpretation of most Returners. In my experience, they were quick to take hold of so many things we fought tooth and nail to build. Like it belonged to them. Not everyone…of course.
-I'm sorry, I should remember your experience was very different…
-It's okay…but let's just go to sleep. And wake me up if I start dreaming of ghosts.
-Haha, I will. …Monty?
-Hm?
-Do you think Alvin was right or that guy Bruno? Do you think they're trying to send signals or that they can hear us?
-Neither. I think they just want to rest.
+— What a strange day.
+— How so? Asked Monty. Perhaps you just need to sleep.
+— Everyone was so calm. It went so well.
+— Really? I thought it was very uncomfortable. Thinking there are people still sleeping there…that they could wake up at any time. Like we could trigger an avalanche with any sudden move.
+— Huh, it felt so different for me. I used to have nightmares about that day. Waking up, finding myself in a body I barely recognized, surrounded by people just as disconcerted. When I went to sleep…I thought we were doing something good. Like we were giving the planet a chance to heal back up.
+— Mighty generous of you. But in a way, you did. Not having donkeys like Alvin getting in our way allowed the people who stayed over to actually figure out a way to build back. No offense.
+— None taken. I actually could relate to Alvin. Very much. I was also part of the second wave, you know?
+— Oh?
+— I didn't think much of it at first. But was if we were actually sent as back up? What if Leon didn't trigger the first wave and it was actually a system failure. But he then sent some back up to help stabilize the influx of people.
+— You're having too good of an interpretation of most Returners. In my experience, they were quick to take hold of so many things we fought tooth and nail to build. Like it belonged to them. Not everyone…of course.
+— I'm sorry, I should remember your experience was very different…
+— It's okay…but let's just go to sleep. And wake me up if I start dreaming of ghosts.
+— Haha, I will. …Monty?
+— Hm?
+— Do you think Alvin was right or that guy Bruno? Do you think they're trying to send signals or that they can hear us?
+— Neither. I think they just want to rest.
 
 ---
 
-Early in the morning, she was woken up by Claus.
-Miss Sunday?
-Natalia was struggling to wake up from a deep sleep, but she quickly sensed Claus's earnest plea.
-Do you think…is it okay if we go back in again?
+Figuring out the codex
+— Natalia is doing a deep dive while everyone is having dinner, after the conversation with Monty.
+— Paloma comes in with Codi. She interrupts her dive.
+— Hey, I think the little baby needs to eat.
+— Oh, sorry about that. I almost forgot.
+— Are you getting close to finding an answer?
+— I can actually sense a different environment here. I can't quite steady myself, but I'm getting there. Hold on, let me write down my findings.
+— I'll be feeding the baby.
 
-She couldn't understand at first. He explained some of the students couldn't sleep that night. The ones who had family still sleeping in the pods wanted to try leaving notes to their loved ones.
-We know they can't hear us, but…we took turns writing notes. Perhaps if we could go in one more time, we could leave the notes for them. For when they wake up, or for when the scientists find a way to communicate with them.
-She was afraid this would happen, but she was ready for it. Bringing the kids here was bound to trigger some emotions, but she had already decided it was better to handle it than put it to rest.
-I'll tell you what, we'll ask the children who have family sleeping there if they want to join us. We'll take the train to the perimeter and ask the guard to hand our notes. Okay?
-Well…Daniela and Val are already on their way.
+Paloma held the bottle to Codi's mouth while Natalia kept logging her results. She felt unnerved by these 
+— How do you know you're getting closer? Isn't it…risky?
+— It is, but…how do I explain it? I feel like I'm mastering it.
+— Are you sure? I'm all for figuring out difficult things, but…what if you don't come back?
+Natalia stopped for a moment. Paloma's words actually reached her, it seems.
 
-This was a problem, and it turns out most children were already awake, save for Paloma. She realized if this was going to happen, it was better to have an adult with them. She told Claus she'd wake Paloma up and see if she'd want to come.
-What? Paloma said while facing the wall, clearly still awake.
-Some of the kids are going to send notes to their family. Do you want to send some too?
-I'm good, but this sounds fun. I'll join.
+— I'm sorry…I had not considered that possibility. I shouldn't think myself above it.
+— Right! 'Cause if you did stay on the trip, I wouldn't want to care for Codi on my own. I'm much too young to be a single mom!
+They laughed, Paloma feeling somewhat relieved and feeling heard.
+— You understand, though, right? How I feel like I'm on the verge of a breakthrough.
+— I'm all for it! But do you even know what you're breaking through to? What if it's just a psychotic break?
+— It's hard to explain…it's like when you have a word on the tip of your tongue. I know that's what sliding into a worse stage of TDS feels like, but what if I could find something?
+— Maybe just change the approach. Like, why do you feel closer to something? What changed? Let's debug this.
+— Yes, let's be methodical about this.
+The two sat down writing notes and comparing them. They quickly arrived at the answer: Her TDS symptoms had changed since she came to Mexico. It was hard to pinpoint it with everything that had been going on, but clearly that was the before and after.
+— So the triggers could be Leon, the new location or the episode you had after arriving here. You said you hadn't had one that bad in years, no?
+— Actually…there's something else. Leon left a funny artifact for me. I don't understand how it works so I've left it alone. 
 
-She decided to wake up Monty and tell him of the idea. He was likely to oppose it, but it was important for the children.
-When they got to the post, she noticed there was no guard there…it made sense, though. They probably didn't get much company.
-This is where we leave our notes.
-But…the guard won't know what they're for if we leave them here.
-Then we come back tomorrow.
-Wouldn't it be funny…if we delivered them ourselves?
-The group was surprised by Paloma's suggestion. Nobody had thought of that, but once thought of, they couldn't let go.
-Please miss Sunday! We're already here! We'll go in and out, cause no disruption.
+Paloma perked up at the mention of this. Natalia took out a little conch from her bag.
+— It just works like this…
+She blew into it and it transformed into a book. It looked like magic! Of course, there was no such thing as magic, so the possibilities positively intrigued Paloma. She had seen this before, in Leon's lab with the mycelium walls. It's likely this worked by 
+— And so this builds itself? And it feeds off the agar? Like Codi…
+— Yes, it--
+Paloma grabbed the conch and tore the connection. The book immediately wilted and disappeared into almost nothing.
+— Hey, careful! Don't break it!
+— If it's mycelium, it can rebuild itself. The shape must be encoded.
+She played around and tested her hypothesis. This was incredible.
+— Codi, what do you think?
+The little creature stared at her with curious eyes. She realized this could be related to Natalia's breakthrough. She opened the codex and told Natalia.
+— Now make it work.
+Natalia closd her eyes and traced the pages with her hand. The ink started to light up…
+— That's it! Now, go on one of your trips.
+Natalia's eyes glazed but her expression didn't go blank as usual, she seemed focus.
+— I…see it. Light. Distance.
+— You can talk! Can you hear me?
+— Little. Hear. Me.
+Paloma decided to gather evidence like Natalia taught her. She took photos and recorded notes of what she was seeing. Some minutes later, Natalia snapped out of it. She seemed exhausted.
+— Natalia, did you do it? You were able to communicate!
+— I…I could hear you. It was like you were underwater, or I was…
+— Ah, ha…
+She kept taking notes.
+— And I could see a light in the distance, that way…
+— The sleeping hub. Do you think you were able to access the Yosemite C?
+— Maybe…it felt so familiar.
+— What if Leon figured out what the scientists are trying to do? What if there is a way to contact the "sea"?
+— Perhaps…
+— Natalia, you could solve this whole thing! Maybe that's why they killed Leon, he was close to figuring this out and they wanted to keep him quiet.
+Paloma was jumping with excitement. Natalia seemed energized by this, despite the exhaustion. The compakin was sleeping deeply. 
+— Let's carry on with this later. I knew there was something here.
+— I gotta give it to you. I thought you were just going crazy.
 
-She could sense the earnestness of their plea, nad how much they wished for this. She decided to keep going.
-As they were arriving, Paloma shared with her.
-My parents I don't care much for, but I would like to leave a note for my brother. Tell him to hurry up and wake up, you know?
+---
 
-When they arrived at the gate, they found it locked. Paloma had seen the guard open it with a card and she commented on it. Monty quickly brought out a device that emmited a green light. He said he thought they might need it. He held it for a moment and the gate opened.
-They all went inside, she didn't want to keep going, but the children pleaded with her.
-She went looking for one of the scientists and found Bruno's sleeping pod. It was empty so she figured he'd be up. She was able to find him.
-He led them to one of the chambers with the sleep pods. It was overwhelming to see so many pods in one. He pointed out Alvin's pod and how he'd be waking up in a couple of minutes.
-Claus tried to send a message with the haptic glove, no response. So Natalia decided to take a TDS dive. She asked Monty and Bruno to take the kids back for a moment, with a slight deception. She then got into one of the sleeping pod for the first time in years, held Codi in her arms…and closed her eyes.
+Infiltrating the Hub
 
-She saw herself in what felt like a sea of colors, like she was submerged and close to the seabed. Her body started to separate into multiple versions and she felt like she was about to faint, but she felt Codi's body anchoring her to a single self. She could see her other versions moving and walking around. She let her attention start to wander and soon enough, and she started to feel overwhelmed by the possibilities.
+Paloma went to sleep but kept tossing and turning, thinking about all she learned that day and the codex. She thought about her brother, sleeping so close. If Natalia could access this space, there might be a way to reach him. Maybe even tell him to come back. What if they could figure out a way to bring people back?
+She got up and started reviewing her notes.
+— Up already?
+— I can't sleep…we're going to leave soon. What if this is our only chance?
+— For what?
+— Contacting the Sleeping.
+
+Natalia got up. They decided to go before the break of dawn into the hub. They had gone in once already so they somewhat knew the layout. Paloma took some tools and gadgets with her. They decided to leave Codi with the kids since it was dangerous to take a baby with them. They should be back before dawn. They needed to know…
+
+When they arrived at the gate, they found it locked. Paloma had seen the guard open it with a card and she brought out a device that emmited a green light. She held it for a moment and the gate opened.
+They inflitrated the hub by tricking with some social engineering. They were able to make it to the room where the researchers were sleeping, then found a room where they wouldn't be disturbed. They took out the codex and…
+
+Natalia saw herself in what felt like a sea of colors, like she was submerged and close to the seabed. Her body started to separate into multiple versions and she felt like she was about to faint, but she felt Codi's body anchoring her to a single self. She could see her other versions moving and walking around. She let her attention start to wander and soon enough, and she started to feel overwhelmed by the possibilities.
 She tried to do Somatic Override on herself, tapping on her head faster and faster, to no avail. She had no way to get back to herself.
+
+## The fallout
 
 She did not wake up until some hours later, when they were in Zempoala.
 
 She was feeling hazy, but fine otherwise. Monty was sitting on a chair next to her, with a somber look all around him.
 She was happy to see him, but he was not. He scolded her for being so irresponsible. She had a whole class of kids depending on her, he said. "All returners are the same", accusing her of prioritizing a way back into the Yosemite-C over taking care of the children that she had signed up for. He saw this as a naked attempt at getting close to the YC, as looking for a way back.
 
-She wanted to melt away, she felt her heart racing and her TDS start to take hold. So she performed Somatic Override and was back in control of herself. She was able to get back up and go out of the cabin to catch the sunset. The kids were playing around the lakes, some with kites. Paloma was sitting alone near a stream, holding Codi tight. Natalia saw her but, without access to her emotions, thought nothing of it and just went to check in with each of the students.
-They were concerned about her, but she was able to assuade her fears with a calm explanation. Or so she thought.
-By the time it came to Paloma, she seemed to be furious rather than worried. She refused to speak to her much, then left, leaving Codi with Natalia.
-She was confused for a moment, but then decided to let it go. However, having Codi near her made it impossible to fully disconnect from her feelings, so they came back.
+She argued that they needed to know, that Paloma needed to contact her brother. That it wasn't a way back, but a way to communicate.
+Monty stood still, silent for a moment. Then he told her. Paloma's brother was dead. He's not in the Yosemite C, he died trying to stop a wildfire some years ago. Paloma didn't know the truth because it was too cruel to tell her. So they told her he had been wounded and needed to be uploaded to recover. Her parents weren't uploaded either, they were awake, but they had come out wrong, like so many Returners.
+He told her to get ready, that they'd be leaving soon now that she was awake.
 
-Monty showed up and told her the story of Paloma's brother. How they were left orphans when their parents uploaded to the Yosemite-C. They were expecting their children to follow along promptly, since Paloma was near the age limit to upload, but her brother decided to stay behind to take care of her.
-This went on for 2 years where they lived in the community Monty was a part of. They were good kids, often reading manga and going off on patrols together. Until one day when it was very cold, Paloma came back alone.
+Natalia left the cabin dumbfounded. They had to delay the return because of her accident. It was dusk and the kids were playing around the lakes, some with kites. Paloma was sitting alone near a stream, holding Codi tight.
 
-Natalia was able to internalize the importance of this and she felt moved. Monty apologized for the way he reacted.
-She decided to bring the children together around the firepit, bringing out her guitar. Since the kids weren't allowed inside for Leon's funeral, she suggested they sing a song to remember him by, and for everyone who was sleeping.
-Monty suggested a song and told Natalia to turn off her t-box.
-He played Carta a Francia, by Fernando Delgadillo, which was a favorite of Leon. The children sang along and Natalia felt moved once more. Near the end, Paloma jumped up and left running. Natalia decided to follow.
+She approached her, troubled. 
+— Sorry I pushed you too far.
+— No, it wasn't you…
+— Codi says he would miss you. Maybe we should stop trying this for the time being. You know, for the kid.
+— Yes, for the kid.
 
-Paloma played it off, but Natalia apologized nonetheless. Codi started to transform.
-
-The next morning, Codi wasn't laying next to Natalia. She got out and saw him laying on a rock, a beautiful, yellow flower shimmering on his back under the morning sun. She approached and when he looked at her, he yelled "Natalia"! She was very taken aback.
-He tried to say other things, but was mostly incoherent. She now had to reckon with the fact that her compakin could talk, and that he seemed to just be getting started.
-
-Paloma's Parents
-Natalia decided to accompany Paloma after being dropped off, after what Monty said of seeing her parents for herself.
-The parents were nice, they offered her tea, but barely paid attention to Paloma, beyond a passing greeting, like you would an acuaintance on the street.
-There was no doubt in Natalia's mind that they had Tier III TDS. There were 4 tiers, with little recourse the higher up you'd go. For reference, Natalia had been Tier I. It was common for Tier III patients to get discharged soon and to focus on keeping up their routines and to have a live-in nurse. Some were able to work, so long as their job was close to their house and didn't operate any delicate machinery or had potential for terrible consequences. There had been a case of a Tier II patient in Austin who operated the train, who slided to Tier III on the job and ran into the station. It was very common for patients to slide further, with only anecdotal evidence of patients recovering from Tier III. There were no storied of Tier IV patients ever coming back. You could often see them in parks or care centers, with a likely recurring TDS episode, over and over.
-In Austin, Tier IV patients were let out of the city…with everyone refusing to think of what would happen after that, lest they slide off too themselves.
-The reports mentioned cases were getting worse at an alarmign rate in some cities, but Austin was able to keep the rate relatively low. She was proud of her part in that. But she only had to treat Tier II patients, most of the time…
-She wondered if her team was taking good care of her patients. She felt her heart start to race so she turned to leave.
-Paloma had gone to her room, but she noticed Codi looking off in that direciton, his flower a deep blue with some purple and red.
-
-She decided to go talk to her instead.
-
-At Paloma's house, after meeting the parents
-He's not sleeping…I say that because…it's easier. When they woke up I wasn't happy, I wasn't angry, I just…told them. The first thing I did was tell them that he was gone. And they just looked at me like they were asking "...who?".
-They didn't care that their own son was gone. That's how I knew they weren't back. That I still had to take care of myself. That I'll always be alone. As alone as I've always been ever since he…
-…
-We always said we'd have a pirate crew of our own. We'd travel together all over, having adventures, helping people, fixing this broken world.
-A pirate crew, huh? Would you also be stealing? Plundering, aye?
-Only from the bad guys. Sometimes just for fun.
-Haha…maybe we should.
-Hm?
-Start our pirate crew. Do more than just…sit around and hope things get better. Maybe that's what Leon was trying to tell me.
-We should. It would be so much fun.
-It will be chaotic, and messy…but maybe that's what we need.
-Codi will be our navigator!
-Will he?
-And you'll be the First Mate! Commander.
-I'm not opposed to that…so long as I don't have to call you captain.
-That's captain Paloma for you!
-Hahaha
-
-Paloma looks away for a moment longingly, outside of her room.
-
-Do you think maybe…
-Not with Tier III, not that I know of…experiments are risky as they often lead to the patients' condition worsening.
-I figured…
-But maybe…
-
-She looks at Codi, peacefully sleeping with his flower blooming in a bright pink, with stripes of orange and yellow.
+Monty approached them with a somber and guilty look. He apologizes to Natalia, but she apologizes too.
+They get on the train, and as it departs, Paloma wonders if perhaps the Sleeping can hear music, since they reacted to the waves from her device previously. She asks Monty to get his guitar out and to play "that song", he brother's favorite.
+As he sings, Natalia holds Codi closer and Paloma looks on the rearview window towards the mountains.
