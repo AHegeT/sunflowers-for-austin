@@ -41,9 +41,9 @@ cargo install mdbook-frontmatter-strip --version 1.1.3 --locked
 
 ### World Guide and spoilers
 
-The English [World Guide](manuscript/en/guide/index.md) is a wiki-style landing page with a glossary, character directories/profiles, and history/places. Browse **People → Main characters → Natalia** for the profile layout: an information card, existing concept art or an image placeholder, and chapter-aware sections. The mdBook sidebar mirrors this hierarchy and folds its categories. Preview it with `mdbook serve` or `mdbook serve manuscript/en`; both English configurations include the same guide styles and script.
+The English [World Guide](manuscript/en/guide/index.md) is a wiki-style landing page with a glossary, character directories/profiles, factions, history/places, and a [world chronology](manuscript/en/guide/chronology.md). Browse **People → Main characters → Natalia** for the profile layout: an information card, existing concept art or an image placeholder, and open reference sections. The mdBook sidebar mirrors this hierarchy and folds its categories. Preview it with `mdbook serve` or `mdbook serve manuscript/en`; both English configurations include the same guide styles and script.
 
-Readers choose the last chapter they finished using **Show information through**. **Finished Chapter** buttons at the end of reading chapters advance that setting. Opening a chapter does not advance it. Later guide sections stay collapsed behind a chapter warning and can be opened voluntarily. Reset returns to **Before the story**; the selection is stored locally in the browser when available.
+Readers choose the last chapter they finished using **Show information through** at the bottom of the left sidebar on every page. **Finished Chapter** buttons at the end of reading chapters advance that setting. Opening a chapter does not advance it. Later glossary and History and places sections stay collapsed behind a chapter warning and can be opened voluntarily. Character profiles and the world chronology are always fully visible. Supporting characters are grouped by community, workplace, and faction in both their directory and the sidebar. Reset returns to **Before the story**; the selection is stored locally in the browser when available.
 
 Author new reveal sections using this pattern (HTML content inside the wrapper avoids Markdown/HTML parsing surprises):
 
@@ -57,9 +57,22 @@ Author new reveal sections using this pattern (HTML content inside the wrapper a
 </details>
 ```
 
-Keep both revealing headings and their contents inside the wrapper. `data-reveal-after="5"` means **after finishing chapter 5**. Without JavaScript these sections remain manually expandable. Guide pages are excluded from mdBook search so snippets cannot expose collapsed text. The printable book keeps closed guide sections hidden; the story chapters themselves remain in the normal full-book print view.
+Keep both revealing headings and their contents inside the wrapper. `data-reveal-after="5"` means **after finishing chapter 5**. Without JavaScript these sections remain manually expandable. Guide pages are excluded from mdBook search so snippets cannot expose collapsed text. The mdBook print button and generated full-book print page are disabled in both editions.
 
-When adding a chapter, update the chapter filename map and `LAST_CHAPTER` in `theme/story-guide.js`. Existing reveal values and browser progress remain stable. The prototype is English-only; translating the guide also requires localizing the controls and adding the matching Spanish chapter map.
+When adding a chapter, update the chapter filename map and `LAST_CHAPTER` in `theme/story-guide.js`. Existing reveal values and browser progress remain stable. The guide content is currently English-only. Both editions have localized sidebar controls and chapter completion buttons. Language links preserve the current story chapter; switching from an English guide page opens the Spanish edition’s start.
+
+Whole-page visibility is configured in `pageReveals` in `theme/story-guide.js`, using edition-relative HTML paths and the chapter after which they appear. The registry is currently empty: all character profiles and the world chronology are freely browsable. To gate a future page, add an entry such as `"guide/new-topic.html": 4`. Direct links show a generic warning; raising the setting reveals the page. Use `99` for pages available only with **All available chapters**. This is a voluntary spoiler preference, not access control; without JavaScript page contents are readable.
+
+Add reader-facing faction pages under `manuscript/en/guide/factions/` and list them beneath **Factions** in `SUMMARY.md`. Working faction notes remain in `notes/world/Different Factions.md`.
+
+To preview language switching locally, serve both built editions from their shared parent:
+
+```sh
+mdbook build manuscript/en && mdbook build manuscript/es
+python3 -m http.server 8766 --bind 127.0.0.1 --directory book
+```
+
+Open `http://localhost:8766/en/`. A single-edition `mdbook serve` still provides live reload, but cannot serve the other edition.
 
 ### Story editing skills
 

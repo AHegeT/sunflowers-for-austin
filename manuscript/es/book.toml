@@ -9,3 +9,8 @@ build-dir = "../../book/es"
 [preprocessor.frontmatter-strip]
 
 [output.html]
+additional-css = ["theme/story-guide.css"]
+additional-js = ["theme/story-guide.js"]
+
+[output.html.print]
+enable = false

@@ -13,39 +13,37 @@ Natalia’s former mentor, whose research and invitation draw her to Cuernavaca.
 <div><dt>Connection</dt><dd>Natalia’s former mentor</dd></div>
 <div><dt>Based in</dt><dd>Cuernavaca</dd></div>
 <div><dt>First appearance</dt><dd>Chapter 1, through his belongings and letters</dd></div>
+<div><dt>Full name</dt><dd>Leon Diaz-Abbatini</dd></div>
+<div><dt>Age</dt><dd>50</dd></div>
+<div><dt>Born</dt><dd>2023</dd></div>
 </dl>
 </aside>
 <article class="wiki-profile-copy">
 <h2>Overview</h2>
 <p>Leon’s work links psychological research, living materials, and the mysteries of the Continuum.</p>
 
-<details class="story-reveal" data-reveal-after="1">
-<summary>Spoilers through Chapter 1 — reveal anyway</summary>
-<div class="story-reveal-body">
+<h2>Work and connections</h2>
+<p>Leon’s work crosses technological research and practical restoration. His teaching and collaboration connect Natalia and Monty with a much wider network of people.</p>
+<section class="wiki-reference-section">
 <h2>The summons</h2>
 <p>He leaves <a href="natalia.html">Natalia</a> a satchel of research and a conch-like artifact. On arrival she learns from Monty that Leon is dead.</p>
-</div>
-</details>
-<details class="story-reveal" data-reveal-after="2">
-<summary>Spoilers through Chapter 2 — reveal anyway</summary>
-<div class="story-reveal-body">
+</section>
+<section class="wiki-reference-section">
 <h2>The laboratory</h2>
 <p>Monty reveals a hidden room and explains why he believed Leon’s death was deliberate. The laboratory’s living structures suggest that the artifact was part of a larger body of work.</p>
-</div>
-</details>
-<details class="story-reveal" data-reveal-after="4">
-<summary>Spoilers through Chapter 4 — reveal anyway</summary>
-<div class="story-reveal-body">
+</section>
+<section class="wiki-reference-section">
 <h2>His legacy</h2>
 <p>Apex organizes his funeral. Members of the Unseen give conflicting accounts of his contribution, while Natalia and Paloma protect the egg connected to his work.</p>
-</div>
-</details>
-<details class="story-reveal" data-reveal-after="5">
-<summary>Spoilers through Chapter 5 — reveal anyway</summary>
-<div class="story-reveal-body">
+</section>
+<section class="wiki-reference-section">
 <h2>Unanswered questions</h2>
 <p>Natalia’s investigation connects his legacy to the sleepers and the Download. His motives and the full meaning of what he left behind remain unresolved.</p>
-</div>
-</details>
+</section>
+<section class="wiki-reference-section">
+<h2>Before the present story</h2>
+<p>He grew up knowing Arcturus and Aurelius, and later became a key figure in the Unseen’s resistance to Oculus. After its fall he helped people on the ground while also working with the Yosemite Continuum.</p>
+<p>Unlike people who spent the entire missing period asleep, he moved between Earth and the Continuum. His background gives him a perspective on both the Returners and those who stayed.</p>
+</section>
 </article>
 </div>

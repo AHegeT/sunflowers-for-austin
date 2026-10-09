@@ -1,6 +1,6 @@
 # History and places
 
-A broad orientation rather than a definitive chronology. The manuscript and author notes are still evolving, so this guide avoids pinning unsettled events to exact years.
+A guide to the places and historical references encountered in the story. For the sequence of eras and events, see the [World chronology](chronology.md), with provisional dates from the worldbuilding notes.
 
 <details class="story-reveal" data-reveal-after="1">
 <summary>Spoilers through Chapter 1 — reveal anyway</summary>

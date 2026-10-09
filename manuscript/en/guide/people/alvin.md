@@ -1,4 +1,4 @@
-[World Guide](../index.md) / [People](../people.md) / [Supporting characters](supporting.md)
+[World Guide](../index.md) / [People](../people.md) / [Supporting characters](supporting.md) / [The Sleeping Hub](groups/sleeping-hub.md)
 
 # Alvin
 
@@ -19,12 +19,9 @@ A researcher at the Sleeping Hub, focused on recovering access to the existing C
 <h2>Overview</h2>
 <p>He pursues his research through an unusual schedule at the boundary of sleep and wakefulness.</p>
 
-<details class="story-reveal" data-reveal-after="5">
-<summary>Spoilers through Chapter 5 — reveal anyway</summary>
-<div class="story-reveal-body">
+<section class="wiki-reference-section">
 <h2>Research and disagreement</h2>
 <p>He believes the sleepers send signals that the researchers cannot yet decipher. <a href="bruno.html">Bruno</a> disputes this. Their disagreement mixes incompatible approaches with a personal rivalry.</p>
-</div>
-</details>
+</section>
 </article>
 </div>

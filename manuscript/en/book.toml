@@ -10,8 +10,8 @@ build-dir = "../../book/en"
 
 [output.html]
 no-section-label = true
-additional-css = ["../../theme/story-guide.css"]
-additional-js = ["../../theme/story-guide.js"]
+additional-css = ["theme/story-guide.css"]
+additional-js = ["theme/story-guide.js"]
 
 [output.html.fold]
 enable = true
@@ -19,3 +19,6 @@ level = 1
 
 [output.html.search.chapter]
 "guide" = { enable = false }
+
+[output.html.print]
+enable = false

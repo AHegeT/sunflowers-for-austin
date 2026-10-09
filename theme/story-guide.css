@@ -112,3 +112,24 @@ a.wiki-card:hover, a.wiki-card:focus-visible { border-color: var(--links); }
     .story-guide-controls, .story-guide-finish { display: none !important; }
     details.story-reveal:not([open]) .story-reveal-body { display: none !important; }
 }
+
+/* Keep sidebar settings inside the same scroll area as the chapter tree. */
+.story-language { display: flex; flex-wrap: wrap; gap: 0.8rem; padding: 1.6rem 1rem 0; }
+.story-language a[aria-current] { font-weight: bold; text-decoration: underline; }
+.sidebar .story-guide-controls { margin: 1.2rem 1rem; padding: 1rem; gap: 0.8rem; font-size: 1.3rem; }
+.sidebar .story-guide-controls label, .sidebar .story-guide-controls select { width: 100%; }
+.sidebar .story-guide-status { font-size: 1.1rem; }
+[hidden] { display: none !important; }
+.wiki-page-warning { padding: 2rem; border: 1px solid var(--table-border-color); border-radius: 0.6rem; }
+
+.wiki-chronology { border-left: 3px solid var(--table-border-color); padding-left: 1.8rem; margin-block: 2rem; }
+.wiki-chronology h2 { color: var(--links); }
+
+.wiki-reference-section { margin-block: 2.4rem; }
+.wiki-chronology .wiki-reference-section { padding: 0.2rem 1.6rem 1rem; border-bottom: 1px solid var(--table-border-color); }
+.wiki-chronology .wiki-reference-section:last-child { border-bottom: 0; }
+
+/* The chapter tree scrolls independently; reader settings stay at the bottom. */
+.sidebar.story-sidebar { display: flex; flex-direction: column; }
+.sidebar.story-sidebar .sidebar-scrollbox { position: relative; inset: auto; flex: 1; min-height: 0; }
+.sidebar.story-sidebar > .story-guide-controls { flex: 0 0 auto; max-height: 40vh; overflow-y: auto; }

@@ -1,4 +1,4 @@
-[World Guide](../index.md) / [People](../people.md) / [Supporting characters](supporting.md)
+[World Guide](../index.md) / [People](../people.md) / [Supporting characters](supporting.md) / [The Sleeping Hub](groups/sleeping-hub.md)
 
 # Bruno
 
@@ -19,12 +19,9 @@ A researcher at the Sleeping Hub, developing new pods rather than trying to rest
 <h2>Overview</h2>
 <p>He argues for a new approach to the Continuum and is dismissive of Alvin’s hopes.</p>
 
-<details class="story-reveal" data-reveal-after="5">
-<summary>Spoilers through Chapter 5 — reveal anyway</summary>
-<div class="story-reveal-body">
+<section class="wiki-reference-section">
 <h2>Research and disagreement</h2>
 <p>He describes two waves in the Download and offers a theory about why they occurred. He emphasizes the sleepers’ reactions to messages but rejects Alvin’s account of incoming signals.</p>
-</div>
-</details>
+</section>
 </article>
 </div>

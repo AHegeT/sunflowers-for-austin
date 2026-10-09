@@ -2,7 +2,7 @@
 
 # Main characters
 
-Open a profile to see basic information and chapter-aware story sections.
+Open a profile for basic information, appearance, personality, background, and relationships.
 
 <div class="wiki-card-grid">
 <a class="wiki-card" href="natalia.html"><strong>Natalia Sunday</strong><span>A therapist leaving Austin for Cuernavaca.</span><span class="wiki-card-meta">Introduced in Chapter 1</span></a>
