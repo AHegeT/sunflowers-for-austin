@@ -9,5 +9,15 @@ build-dir = "book/en"
 [preprocessor.frontmatter-strip]
 
 [output.html]
+no-section-label = true
+additional-css = ["theme/story-guide.css"]
+additional-js = ["theme/story-guide.js"]
+
+[output.html.fold]
+enable = true
+level = 1
+
+[output.html.search.chapter]
+"guide" = { enable = false }
 
 # Local development only — Vercel uses: mdbook build manuscript/en && mdbook build manuscript/es

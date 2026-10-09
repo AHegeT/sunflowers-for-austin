@@ -9,7 +9,8 @@ This board records the order agreed in this session. Imported tasks remain in th
 - [x] Fix collapsed dialogue and protect chapter indexes in the formatter.
 - [ ] Add a book overview, language navigation, and concept-art gallery.
 - [ ] Give optional side chapters contextual links and a return path.
-- [ ] Create a reader-facing World Guide with a manual chapter selector and voluntary spoiler reveals.
+- [x] Create a basic English World Guide with a manual chapter selector and voluntary spoiler reveals.
+- [ ] Review the [guide definitions and reveal timing](workflows/World%20Guide%20Sources.md), then translate the reviewed guide into Spanish.
 
 The existing [author glossary](world/Glossary.md) is source material for review, not ready-to-publish copy. Both language editions exist, but the Spanish chapter files currently contain translation placeholders.
 
@@ -47,6 +48,7 @@ Read the existing [Chapter 6 working note](story/chapters/Chapter%206.md) before
 - [ ] Establish student designs using the [class roster](characters/Natalia%27s%20Class.md) and [secondary briefs](characters/Character%20Briefs%20-%20Secondary.md), with unresolved visual choices called out.
 - [ ] Try one illustrated scene/script using existing dialogue and concept art.
 - [ ] Build continuity-audit, chapter-limited recap, and story-beat workflows that distinguish manuscript facts, character beliefs, plans, and possibilities.
+- [x] Create reusable `story-translate` and `story-retcon` skills for edition updates and author-directed changes.
 - [ ] Extract the reusable presentation template after the first story demonstrates the workflow.
 
 ## Notes that need reconciliation

@@ -5,6 +5,7 @@ This is the private author workspace. It is outside the manuscript directory and
 ## Start here
 
 - [Current work](CURRENT-WORK.md): the priorities agreed for this session and chapter-specific entry points.
+- [World Guide drafting notes](workflows/World%20Guide%20Sources.md): reader-page sources, reveal timing, and decisions to review.
 - [Complete catalogue](CATALOGUE.md): every imported note, grouped by purpose, with its original location.
 - [Original project hub](overview/Sunflowers%20for%20Austin.md): your imported Obsidian overview.
 - [Story bible and outline](overview/Story%20Bible%20and%20Outline.md): an existing overview to consult and reconcile, rather than a newly verified authority.
