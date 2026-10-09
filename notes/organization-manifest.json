@@ -1,0 +1,490 @@
+{
+  "organized_on": "2026-10-09",
+  "files": [
+    {
+      "original": "Sunflowers for Austin/A short story about Julia.md",
+      "path": "story/short-stories/A short story about Julia.md",
+      "sha256_before": "845a4c96ab8be167dfa4459681c5128f6843e608c202318799d621d7a73e13be",
+      "sha256_after": "845a4c96ab8be167dfa4459681c5128f6843e608c202318799d621d7a73e13be"
+    },
+    {
+      "original": "Sunflowers for Austin/AI Prompt for Helping Brainstorm.md",
+      "path": "workflows/AI Prompt for Helping Brainstorm.md",
+      "sha256_before": "b6e832c373e9891ee585239ec6431266591059a46c0b5f9fb22fe11b3021d793",
+      "sha256_after": "b6e832c373e9891ee585239ec6431266591059a46c0b5f9fb22fe11b3021d793"
+    },
+    {
+      "original": "Sunflowers for Austin/Archive/Archived Ideas.md",
+      "path": "archive/Archived Ideas.md",
+      "sha256_before": "beae4c2dd9004e29bacce6b910ba77e6d48a505d35ad7527237d794a7213a7a5",
+      "sha256_after": "beae4c2dd9004e29bacce6b910ba77e6d48a505d35ad7527237d794a7213a7a5"
+    },
+    {
+      "original": "Sunflowers for Austin/Archive/Chapter 5 - Archived.md",
+      "path": "archive/Chapter 5 - Archived.md",
+      "sha256_before": "a0aa901d19db6db2697804166341ef3a93a3d9dd0248c598b98ce8e8d928be56",
+      "sha256_after": "a0aa901d19db6db2697804166341ef3a93a3d9dd0248c598b98ce8e8d928be56"
+    },
+    {
+      "original": "Sunflowers for Austin/Archive/First Pitch.md",
+      "path": "archive/First Pitch.md",
+      "sha256_before": "c71ef56e899437dea18898626307f4b823eb4a3971a43baa567301bae0039186",
+      "sha256_after": "c71ef56e899437dea18898626307f4b823eb4a3971a43baa567301bae0039186"
+    },
+    {
+      "original": "Sunflowers for Austin/Archive/Girasoles for Austin Prompt.md",
+      "path": "archive/Girasoles for Austin Prompt.md",
+      "sha256_before": "3a11fbf4d63fdf7e52fec131c4d5cc27907cf38bac12857cf7ccfbd6fcf3cfda",
+      "sha256_after": "3a11fbf4d63fdf7e52fec131c4d5cc27907cf38bac12857cf7ccfbd6fcf3cfda"
+    },
+    {
+      "original": "Sunflowers for Austin/Archive/Ideas - Julia Related to CEO.md",
+      "path": "archive/Ideas - Julia Related to CEO.md",
+      "sha256_before": "b343eddadcd49e07181cfe60727548ea31f854f48590f1d1e1ee16fa5e5e4b0e",
+      "sha256_after": "b343eddadcd49e07181cfe60727548ea31f854f48590f1d1e1ee16fa5e5e4b0e"
+    },
+    {
+      "original": "Sunflowers for Austin/Archive/Solarpunk Novel Overview.md",
+      "path": "archive/Solarpunk Novel Overview.md",
+      "sha256_before": "db63b584fb853bd40fb77918f8cce690afb4287f78c00cb0eacc8b7a43b913f6",
+      "sha256_after": "db63b584fb853bd40fb77918f8cce690afb4287f78c00cb0eacc8b7a43b913f6"
+    },
+    {
+      "original": "Sunflowers for Austin/Chapter 2.2.md",
+      "path": "story/chapters/Chapter 2.2.md",
+      "sha256_before": "8a69daced23dc3fead7b2cadfa882ed44983301133df051725c3c0faa5e48ce0",
+      "sha256_after": "8a69daced23dc3fead7b2cadfa882ed44983301133df051725c3c0faa5e48ce0"
+    },
+    {
+      "original": "Sunflowers for Austin/Chapters/Chapter 1.md",
+      "path": "story/chapters/Chapter 1.md",
+      "sha256_before": "7f09df151b582bc2657b7d577d2d6111b2614723543a2e2e813018a0c45d0394",
+      "sha256_after": "7f09df151b582bc2657b7d577d2d6111b2614723543a2e2e813018a0c45d0394"
+    },
+    {
+      "original": "Sunflowers for Austin/Chapters/Chapter 2.md",
+      "path": "story/chapters/Chapter 2.md",
+      "sha256_before": "7467c48d8940f158bbde172dcd26632960de2161e52efea193bb209f552721c9",
+      "sha256_after": "7467c48d8940f158bbde172dcd26632960de2161e52efea193bb209f552721c9"
+    },
+    {
+      "original": "Sunflowers for Austin/Chapters/Chapter 3.md",
+      "path": "story/chapters/Chapter 3.md",
+      "sha256_before": "39db9073222a2ea1d0ea4c3b96b5682cbdc587697093b258c57554e1099b8333",
+      "sha256_after": "39db9073222a2ea1d0ea4c3b96b5682cbdc587697093b258c57554e1099b8333"
+    },
+    {
+      "original": "Sunflowers for Austin/Chapters/Chapter 4.md",
+      "path": "story/chapters/Chapter 4.md",
+      "sha256_before": "0bd89efcabc12adf7b3aac452533e2604d0e20022291e40648450be636b51575",
+      "sha256_after": "0bd89efcabc12adf7b3aac452533e2604d0e20022291e40648450be636b51575"
+    },
+    {
+      "original": "Sunflowers for Austin/Chapters/Chapter 5 draft.md",
+      "path": "story/chapters/Chapter 5 draft.md",
+      "sha256_before": "06e670cb08242f113228287c81b38a6759b7d9ec2d393f3167f9aaca1518303a",
+      "sha256_after": "06e670cb08242f113228287c81b38a6759b7d9ec2d393f3167f9aaca1518303a"
+    },
+    {
+      "original": "Sunflowers for Austin/Chapters/Chapter 5.md",
+      "path": "story/chapters/Chapter 5.md",
+      "sha256_before": "5903a4395fec95dc89f14235860e5e7325979e8f1480d898b9e6b177e42703a5",
+      "sha256_after": "5903a4395fec95dc89f14235860e5e7325979e8f1480d898b9e6b177e42703a5"
+    },
+    {
+      "original": "Sunflowers for Austin/Chapters/Chapter 6.md",
+      "path": "story/chapters/Chapter 6.md",
+      "sha256_before": "1d3665983afe36347c31ee961d55816e0b44e38a0ee033be96f6f40020089431",
+      "sha256_after": "1d3665983afe36347c31ee961d55816e0b44e38a0ee033be96f6f40020089431"
+    },
+    {
+      "original": "Sunflowers for Austin/Chapters/Chapter 9 - Heist.md",
+      "path": "story/chapters/Chapter 9 - Heist.md",
+      "sha256_before": "e9d610205de6963f57ddaaabddb760f8fd20879b8d8a781992f046b313e423b2",
+      "sha256_after": "e9d610205de6963f57ddaaabddb760f8fd20879b8d8a781992f046b313e423b2"
+    },
+    {
+      "original": "Sunflowers for Austin/Chapters/Epilogue.md",
+      "path": "story/chapters/Epilogue.md",
+      "sha256_before": "befeb6cd6b4f8b6c2341d932955b7d9ea8fc764c9549d2c0cd98fb14ecb3de97",
+      "sha256_after": "befeb6cd6b4f8b6c2341d932955b7d9ea8fc764c9549d2c0cd98fb14ecb3de97"
+    },
+    {
+      "original": "Sunflowers for Austin/Chapters/P2 - Chapter 1.md",
+      "path": "story/chapters/P2 - Chapter 1.md",
+      "sha256_before": "65d885931494b2d5a4bde0d4e5b231a38020deae0a10b60b44845fd90733eda5",
+      "sha256_after": "65d885931494b2d5a4bde0d4e5b231a38020deae0a10b60b44845fd90733eda5"
+    },
+    {
+      "original": "Sunflowers for Austin/Chapters/Scenes/The Tianguis of Wires.md",
+      "path": "story/scenes/The Tianguis of Wires.md",
+      "sha256_before": "632801b68591bd1eedb3ab795af1feb14958466be01e56e891c29d7acb741299",
+      "sha256_after": "632801b68591bd1eedb3ab795af1feb14958466be01e56e891c29d7acb741299"
+    },
+    {
+      "original": "Sunflowers for Austin/Chapters/Scenes/Untitled 1.md",
+      "path": "story/scenes/Untitled 1.md",
+      "sha256_before": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sha256_after": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "original": "Sunflowers for Austin/Chapters Outline.md",
+      "path": "story/Chapters Outline.md",
+      "sha256_before": "2e9994c8e4c7412c984017a33c9e50838b4e56552282fdeb10615cfdfc08abfa",
+      "sha256_after": "2e9994c8e4c7412c984017a33c9e50838b4e56552282fdeb10615cfdfc08abfa"
+    },
+    {
+      "original": "Sunflowers for Austin/Character Briefs - Main.md",
+      "path": "characters/Character Briefs - Main.md",
+      "sha256_before": "9ade56d4416e8bb8e270d510102cda6d79e955abe10a34fe2451cdf88e69215c",
+      "sha256_after": "9ade56d4416e8bb8e270d510102cda6d79e955abe10a34fe2451cdf88e69215c"
+    },
+    {
+      "original": "Sunflowers for Austin/Character Briefs - Secondary.md",
+      "path": "characters/Character Briefs - Secondary.md",
+      "sha256_before": "09a35bd5a128b9f207d4d8a9b46c9edf64870ca7f0e67b51191fcba708b4f945",
+      "sha256_after": "09a35bd5a128b9f207d4d8a9b46c9edf64870ca7f0e67b51191fcba708b4f945"
+    },
+    {
+      "original": "Sunflowers for Austin/Characters/Natalia's Class.md",
+      "path": "characters/Natalia's Class.md",
+      "sha256_before": "917183214e61b220b3c1d5d8feba0a22a6499d79cbbf65db9bad4c76daa8e232",
+      "sha256_after": "917183214e61b220b3c1d5d8feba0a22a6499d79cbbf65db9bad4c76daa8e232"
+    },
+    {
+      "original": "Sunflowers for Austin/Different Factions.md",
+      "path": "world/Different Factions.md",
+      "sha256_before": "7356e05280129ac2b359f0120b87aaa544e8bd098eaa37997125466d1f6f1e21",
+      "sha256_after": "7356e05280129ac2b359f0120b87aaa544e8bd098eaa37997125466d1f6f1e21"
+    },
+    {
+      "original": "Sunflowers for Austin/Editing Session 25 May.md",
+      "path": "sessions/Editing Session 25 May.md",
+      "sha256_before": "6a6277b2139aa155abdec144cc636ab69b3213664ec8ecd137c323ceffb187a9",
+      "sha256_after": "6a6277b2139aa155abdec144cc636ab69b3213664ec8ecd137c323ceffb187a9"
+    },
+    {
+      "original": "Sunflowers for Austin/Exploring the Setting for Chapter 2.md",
+      "path": "story/chapters/Exploring the Setting for Chapter 2.md",
+      "sha256_before": "433a56ed4433495d7c18f8a909f7537e5e472264dd6785264c3211e261162472",
+      "sha256_after": "433a56ed4433495d7c18f8a909f7537e5e472264dd6785264c3211e261162472"
+    },
+    {
+      "original": "Sunflowers for Austin/Exploring the Timeline - AI Chat.md",
+      "path": "research/conversations/Exploring the Timeline - AI Chat.md",
+      "sha256_before": "b162fc9c7742d88e4955b4fb501f849efaad4dc0bc292ff22af5e751d0b5a73c",
+      "sha256_after": "b162fc9c7742d88e4955b4fb501f849efaad4dc0bc292ff22af5e751d0b5a73c"
+    },
+    {
+      "original": "Sunflowers for Austin/Exploring the theme.md",
+      "path": "overview/Exploring the theme.md",
+      "sha256_before": "1bdd5c1ecd1811a2e741f2cea2452ccf61e9da3c32709423ce648d9873d2ada0",
+      "sha256_after": "1bdd5c1ecd1811a2e741f2cea2452ccf61e9da3c32709423ce648d9873d2ada0"
+    },
+    {
+      "original": "Sunflowers for Austin/Exploring the timeline.md",
+      "path": "world/history/Exploring the timeline.md",
+      "sha256_before": "9d6157017d36beab6b28f1b7702a04e2247c7ec3faa57a3bb316d568888ff62c",
+      "sha256_after": "9d6157017d36beab6b28f1b7702a04e2247c7ec3faa57a3bb316d568888ff62c"
+    },
+    {
+      "original": "Sunflowers for Austin/Glossary.md",
+      "path": "world/Glossary.md",
+      "sha256_before": "9c6958668ab6da5ad37cfde8ed02e1501a37c89d7989bb3411d5b6bf69b8f792",
+      "sha256_after": "9c6958668ab6da5ad37cfde8ed02e1501a37c89d7989bb3411d5b6bf69b8f792"
+    },
+    {
+      "original": "Sunflowers for Austin/Idea Scratchpad.md",
+      "path": "ideas/Idea Scratchpad.md",
+      "sha256_before": "2aa92d1fb81181b9684061d03878d1e255843e50d00784f989ea8fdd2d4171ba",
+      "sha256_after": "2aa92d1fb81181b9684061d03878d1e255843e50d00784f989ea8fdd2d4171ba"
+    },
+    {
+      "original": "Sunflowers for Austin/Idea dump.md",
+      "path": "ideas/Idea dump.md",
+      "sha256_before": "89257485d340b70e8d375872d31a748bd9d64a7439e50d96fbaeb5f5c7fbf30a",
+      "sha256_after": "89257485d340b70e8d375872d31a748bd9d64a7439e50d96fbaeb5f5c7fbf30a"
+    },
+    {
+      "original": "Sunflowers for Austin/Ideas.md",
+      "path": "ideas/Ideas.md",
+      "sha256_before": "bd23c16970dd1232834b8bdd6bf428bf7f0ddf296c1c743c2c11989f12b83083",
+      "sha256_after": "bd23c16970dd1232834b8bdd6bf428bf7f0ddf296c1c743c2c11989f12b83083"
+    },
+    {
+      "original": "Sunflowers for Austin/Leon on the AI God.md",
+      "path": "story/scenes/Leon on the AI God.md",
+      "sha256_before": "90492cce63345a546f9377ef5c0025f51b520511e283c69d8b7bb8a652d9417e",
+      "sha256_after": "90492cce63345a546f9377ef5c0025f51b520511e283c69d8b7bb8a652d9417e"
+    },
+    {
+      "original": "Sunflowers for Austin/Notes from Canada.md",
+      "path": "ideas/Notes from Canada.md",
+      "sha256_before": "a005d98e70b5a2644150af514c6eb304e79d217d0ce343aea82a4084f8f8c7a1",
+      "sha256_after": "a005d98e70b5a2644150af514c6eb304e79d217d0ce343aea82a4084f8f8c7a1"
+    },
+    {
+      "original": "Sunflowers for Austin/Notes so far.md",
+      "path": "world/Notes so far.md",
+      "sha256_before": "ac88776b160c8a1e9ac891904a03333e8bdcc3aea045818722a52470d24627cf",
+      "sha256_after": "ac88776b160c8a1e9ac891904a03333e8bdcc3aea045818722a52470d24627cf"
+    },
+    {
+      "original": "Sunflowers for Austin/On Compakins - The first deep dive.md",
+      "path": "world/technology/On Compakins - The first deep dive.md",
+      "sha256_before": "a1c75e269ca8f82ed43a339c34949621bfa127fcee47e953d6a1d6bfaaf353cf",
+      "sha256_after": "a1c75e269ca8f82ed43a339c34949621bfa127fcee47e953d6a1d6bfaaf353cf"
+    },
+    {
+      "original": "Sunflowers for Austin/Paloma and Arcturus - Off of steroids.md",
+      "path": "story/scenes/Paloma and Arcturus - Off of steroids.md",
+      "sha256_before": "346935105eca1cffec71c6b526569b9791690583a9f57ccb7e1c38ce80d86b0d",
+      "sha256_after": "346935105eca1cffec71c6b526569b9791690583a9f57ccb7e1c38ce80d86b0d"
+    },
+    {
+      "original": "Sunflowers for Austin/References.md",
+      "path": "research/References.md",
+      "sha256_before": "feb25e80ccefa6bea3703b31941c6e57336a08fecaee8a4b6e2db814a4bd014e",
+      "sha256_after": "feb25e80ccefa6bea3703b31941c6e57336a08fecaee8a4b6e2db814a4bd014e"
+    },
+    {
+      "original": "Sunflowers for Austin/Resources.md",
+      "path": "research/Resources.md",
+      "sha256_before": "956d846c8ebae4d14ab2aff7544917931b3c5ca432cb38ddd97123fc633e2cee",
+      "sha256_after": "956d846c8ebae4d14ab2aff7544917931b3c5ca432cb38ddd97123fc633e2cee"
+    },
+    {
+      "original": "Sunflowers for Austin/Scene Sandbox.md",
+      "path": "story/scenes/Scene Sandbox.md",
+      "sha256_before": "3da1aa69bdead55fb7b0b0baefa998911aefb3379a7084ea7d58523ccbc1be67",
+      "sha256_after": "3da1aa69bdead55fb7b0b0baefa998911aefb3379a7084ea7d58523ccbc1be67"
+    },
+    {
+      "original": "Sunflowers for Austin/Scenes/Natalia obsessing over Leon's death.md",
+      "path": "story/scenes/Natalia obsessing over Leon's death.md",
+      "sha256_before": "e84cd4a11164babdc3b49450e6fcf52532311d5ab05a8fc342129b9feec8c4b3",
+      "sha256_after": "e84cd4a11164babdc3b49450e6fcf52532311d5ab05a8fc342129b9feec8c4b3"
+    },
+    {
+      "original": "Sunflowers for Austin/Story Beats Session 1.md",
+      "path": "story/Story Beats Session 1.md",
+      "sha256_before": "cdc8dfe2d7b0984ca46a9b2d721de9825b6e3df55175f7483754e7344c938e7c",
+      "sha256_after": "cdc8dfe2d7b0984ca46a9b2d721de9825b6e3df55175f7483754e7344c938e7c"
+    },
+    {
+      "original": "Sunflowers for Austin/Story Bible and Outline.md",
+      "path": "overview/Story Bible and Outline.md",
+      "sha256_before": "337b5ed5dc1ed30dbfb53cfb95280ccc1022f049d941da76626aad9b724a5f88",
+      "sha256_after": "337b5ed5dc1ed30dbfb53cfb95280ccc1022f049d941da76626aad9b724a5f88"
+    },
+    {
+      "original": "Sunflowers for Austin/Sunflowers for Austin.md",
+      "path": "overview/Sunflowers for Austin.md",
+      "sha256_before": "95a27c9477f05c3187e9095effb41587f959f7ea2d221ba6781be3963389463d",
+      "sha256_after": "c5f845d15275a4cd7526c1455e307031f905dc96d30c554a762274b7ee0749e7"
+    },
+    {
+      "original": "Sunflowers for Austin/T box exploration.md",
+      "path": "world/technology/T box exploration.md",
+      "sha256_before": "7661b6c0572966f8eb75d93b74372a385dbd4d9bcf5552ef7286c6e188b331af",
+      "sha256_after": "7661b6c0572966f8eb75d93b74372a385dbd4d9bcf5552ef7286c6e188b331af"
+    },
+    {
+      "original": "Sunflowers for Austin/The Codex.md",
+      "path": "world/technology/The Codex.md",
+      "sha256_before": "dde8770f119ceef05c62086a007185666bc78f99fb9e2d9df2ff0c689f2c8c15",
+      "sha256_after": "dde8770f119ceef05c62086a007185666bc78f99fb9e2d9df2ff0c689f2c8c15"
+    },
+    {
+      "original": "Sunflowers for Austin/The Cold Dawn.md",
+      "path": "world/history/The Cold Dawn.md",
+      "sha256_before": "c27841f2806d789dc63680dbc266b22949ce526ff9c6fd2cfbc8f2ce2d148ef6",
+      "sha256_after": "c27841f2806d789dc63680dbc266b22949ce526ff9c6fd2cfbc8f2ce2d148ef6"
+    },
+    {
+      "original": "Sunflowers for Austin/The Great Upload.md",
+      "path": "world/history/The Great Upload.md",
+      "sha256_before": "f85e72665a85747d8b723664f7f6b0be7c5e179a6f53a190b44e0739f0e900c9",
+      "sha256_after": "f85e72665a85747d8b723664f7f6b0be7c5e179a6f53a190b44e0739f0e900c9"
+    },
+    {
+      "original": "Sunflowers for Austin/The Years of The Hum.md",
+      "path": "world/history/The Years of The Hum.md",
+      "sha256_before": "4017381583ae75392a88291406973100b6d2d0361c368b8354b45daa51e410b5",
+      "sha256_after": "4017381583ae75392a88291406973100b6d2d0361c368b8354b45daa51e410b5"
+    },
+    {
+      "original": "Sunflowers for Austin/The conversation with Claude as my buddy.md",
+      "path": "research/conversations/The conversation with Claude as my buddy.md",
+      "sha256_before": "1ec7780b294f9bfb76135553c2ec55844280cf9d9ca1a5e9b887ae292df23735",
+      "sha256_after": "1ec7780b294f9bfb76135553c2ec55844280cf9d9ca1a5e9b887ae292df23735"
+    },
+    {
+      "original": "Sunflowers for Austin/Voice Note Ideas.md",
+      "path": "ideas/Voice Note Ideas.md",
+      "sha256_before": "b7f4abb14743d17126106ebc60edbfdb62f79e15dbf9b9ed767a70bbce36a704",
+      "sha256_after": "b7f4abb14743d17126106ebc60edbfdb62f79e15dbf9b9ed767a70bbce36a704"
+    },
+    {
+      "original": "Sunflowers for Austin/Writing Session Sep 12.md",
+      "path": "sessions/Writing Session Sep 12.md",
+      "sha256_before": "c74e4cd4b50b335db7fbbbc93879f1dbd3ba1397e185b5ada1e37bcf0e69f81f",
+      "sha256_after": "c74e4cd4b50b335db7fbbbc93879f1dbd3ba1397e185b5ada1e37bcf0e69f81f"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/On Codi awakening - Jul 6 at 9-22 AM.md",
+      "path": "recordings/On Codi awakening - Jul 6 at 9-22 AM.md",
+      "sha256_before": "d9b37f362a060bc8e843455edfe9fb7a4f7485a26760fcef579ad2659da62709",
+      "sha256_after": "d9b37f362a060bc8e843455edfe9fb7a4f7485a26760fcef579ad2659da62709"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/SfA - Dome - Jun 12 at 10-46 PM.md",
+      "path": "recordings/SfA - Dome - Jun 12 at 10-46 PM.md",
+      "sha256_before": "196bdb48202316aa2ff080d7a5f102dc94f50f9e81922db536a4302ae281fb83",
+      "sha256_after": "196bdb48202316aa2ff080d7a5f102dc94f50f9e81922db536a4302ae281fb83"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/SfA - Julia was not a bad mom - Jun 17 at 2-15 PM.md",
+      "path": "recordings/SfA - Julia was not a bad mom - Jun 17 at 2-15 PM.md",
+      "sha256_before": "b312a56f7621e5cbb1e40c7cf35ae44b302070cb6fbdcf4cb0836d4e5f91eac5",
+      "sha256_after": "b312a56f7621e5cbb1e40c7cf35ae44b302070cb6fbdcf4cb0836d4e5f91eac5"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/SfA - Rain of Fire - Jun 12 at 8-54 PM.md",
+      "path": "recordings/SfA - Rain of Fire - Jun 12 at 8-54 PM.md",
+      "sha256_before": "7c817e7789d54fcb99d950298878bf876866bedc6966222695a3aed123e33f03",
+      "sha256_after": "7c817e7789d54fcb99d950298878bf876866bedc6966222695a3aed123e33f03"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/SfA - Sleep pod trip - May 18 at 11-43 AM.md",
+      "path": "recordings/SfA - Sleep pod trip - May 18 at 11-43 AM.md",
+      "sha256_before": "6eb8a01a1b5d503663afd5bf1b9c0235b1c3aa0cc5122522cae0e1426f391ea3",
+      "sha256_after": "6eb8a01a1b5d503663afd5bf1b9c0235b1c3aa0cc5122522cae0e1426f391ea3"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/SfA - The attack and aftermath- Jun 8 at 5-25 PM.md",
+      "path": "recordings/SfA - The attack and aftermath- Jun 8 at 5-25 PM.md",
+      "sha256_before": "85d8f6b7868f0ac343d937074592acd91ad2ae64560c48f623bed977054a65a4",
+      "sha256_after": "85d8f6b7868f0ac343d937074592acd91ad2ae64560c48f623bed977054a65a4"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/SfA - compakins, digital cores and humans - Jul 23 at 10-56 AM.md",
+      "path": "recordings/SfA - compakins, digital cores and humans - Jul 23 at 10-56 AM.md",
+      "sha256_before": "ee21495bfbefbbba2b11c3cfcdae80327ea04b4ad026791e7ad64b5847724e11",
+      "sha256_after": "ee21495bfbefbbba2b11c3cfcdae80327ea04b4ad026791e7ad64b5847724e11"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/SfA - the whole compakin  heist lead up - Aug 24 at 9-41 AM.md",
+      "path": "recordings/SfA - the whole compakin  heist lead up - Aug 24 at 9-41 AM.md",
+      "sha256_before": "68b748d1c6a74040acb2eba67a4221a5dbc42beaea34473f0cca13ca5af6aacd",
+      "sha256_after": "68b748d1c6a74040acb2eba67a4221a5dbc42beaea34473f0cca13ca5af6aacd"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/SfA Funeral - Apr 18 at 11-29 PM.md",
+      "path": "recordings/SfA Funeral - Apr 18 at 11-29 PM.md",
+      "sha256_before": "acf2743806bb3430c9768d4cfdfb3caebc6363225864224d6b0bbea42129c1fb",
+      "sha256_after": "acf2743806bb3430c9768d4cfdfb3caebc6363225864224d6b0bbea42129c1fb"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/SfA Paloma and Arct stranded - May 5 at 11-18 AM.md",
+      "path": "recordings/SfA Paloma and Arct stranded - May 5 at 11-18 AM.md",
+      "sha256_before": "30e3b48a1e1e237c402961a664a0927ab2007306cbee06709af961b71a7b080d",
+      "sha256_after": "30e3b48a1e1e237c402961a664a0927ab2007306cbee06709af961b71a7b080d"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/SfA ch5 Intro after funeral - Apr 29 at 11-08 AM.md",
+      "path": "recordings/SfA ch5 Intro after funeral - Apr 29 at 11-08 AM.md",
+      "sha256_before": "bf8ea349ad9aa9eb16f6fb23383137c66074d4d324f8483d04a8341badf8856d",
+      "sha256_after": "bf8ea349ad9aa9eb16f6fb23383137c66074d4d324f8483d04a8341badf8856d"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/Sfa - Funeral - Aug 6 at 8-43 AM.md",
+      "path": "recordings/Sfa - Funeral - Aug 6 at 8-43 AM.md",
+      "sha256_before": "c2212445afda1c736acc298e735f1cdfad10acf71d6556fbe235214794a48cd5",
+      "sha256_after": "c2212445afda1c736acc298e735f1cdfad10acf71d6556fbe235214794a48cd5"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/Sfa - The final act from Julia's  perspective- Sep 23 at 4-29 PM.md",
+      "path": "recordings/Sfa - The final act from Julia's  perspective- Sep 23 at 4-29 PM.md",
+      "sha256_before": "96b8a9a0a84076836aa302f1105d11a5155e875937b76c9c463876dac9a2903a",
+      "sha256_after": "96b8a9a0a84076836aa302f1105d11a5155e875937b76c9c463876dac9a2903a"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/Sfa - paloma is mad - Aug 26 at 10-46 PM.md",
+      "path": "recordings/Sfa - paloma is mad - Aug 26 at 10-46 PM.md",
+      "sha256_before": "4fa289815234be38e846bacbece3654f819c30c2871e70c11a377be17763bae6",
+      "sha256_after": "4fa289815234be38e846bacbece3654f819c30c2871e70c11a377be17763bae6"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/Sfa contd - May 18 at 11-57 AM.md",
+      "path": "recordings/Sfa contd - May 18 at 11-57 AM.md",
+      "sha256_before": "264cda1da05126ec4298a21144c0ac31d94866fb2217d94819b621e2d6984a49",
+      "sha256_after": "264cda1da05126ec4298a21144c0ac31d94866fb2217d94819b621e2d6984a49"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/Sfa- Paloma's brother - Sep 22 at 11-40 AM.md",
+      "path": "recordings/Sfa- Paloma's brother - Sep 22 at 11-40 AM.md",
+      "sha256_before": "62b4ffa7699db11f0b0095769952e2000b89293eafd83cf0b37bef19c70bea62",
+      "sha256_after": "62b4ffa7699db11f0b0095769952e2000b89293eafd83cf0b37bef19c70bea62"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/Sunflowrs the comet and the plan - Aug 22 at 10-16 PM.md",
+      "path": "recordings/Sunflowrs the comet and the plan - Aug 22 at 10-16 PM.md",
+      "sha256_before": "bc77af91f86e076e84521cbcc862979a247ef99557a525df3d17b86c55180b56",
+      "sha256_after": "bc77af91f86e076e84521cbcc862979a247ef99557a525df3d17b86c55180b56"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/sfa - Month and Natalia on her breaking - 2026 feb 19.md",
+      "path": "recordings/sfa - Month and Natalia on her breaking - 2026 feb 19.md",
+      "sha256_before": "fafbf748bb81ae972aa94046f554601a225562a812adf6a4cde171caf8535927",
+      "sha256_after": "fafbf748bb81ae972aa94046f554601a225562a812adf6a4cde171caf8535927"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/sfa - Month and Natalia on her breaking - 2026 feb 19.txt",
+      "path": "recordings/sfa - Month and Natalia on her breaking - 2026 feb 19.txt",
+      "sha256_before": "c1c99d3f1135f9dd11cf0729ea439da77512fcf42318c3041982d0bc5dcddd49",
+      "sha256_after": "c1c99d3f1135f9dd11cf0729ea439da77512fcf42318c3041982d0bc5dcddd49"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/sfa - Natalia on Shame - Apr 8 at 3-35 PM.md",
+      "path": "recordings/sfa - Natalia on Shame - Apr 8 at 3-35 PM.md",
+      "sha256_before": "a97edaaf038949b4e2ff53c22a114e8a94142d5ac0a4356fe587e78156d322b5",
+      "sha256_after": "a97edaaf038949b4e2ff53c22a114e8a94142d5ac0a4356fe587e78156d322b5"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/sfa - On Girasoles for Austin - 2025 07 06.md",
+      "path": "recordings/sfa - On Girasoles for Austin - 2025 07 06.md",
+      "sha256_before": "4206808e071d43678196fe0b5af4ab0abd2134dfcb370fee90b03fdd71f89e70",
+      "sha256_after": "4206808e071d43678196fe0b5af4ab0abd2134dfcb370fee90b03fdd71f89e70"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/sfa - The betrayal and the healing - 2025 11 08.md",
+      "path": "recordings/sfa - The betrayal and the healing - 2025 11 08.md",
+      "sha256_before": "0a7c34e11d9f06aeeba4b0383cdf919c85bf46bf2e9792e0fd6d192968bf1e4b",
+      "sha256_after": "0a7c34e11d9f06aeeba4b0383cdf919c85bf46bf2e9792e0fd6d192968bf1e4b"
+    },
+    {
+      "original": "Sunflowers for Austin/recordings/sfa - Time skip - 2026 Apr 5.md",
+      "path": "recordings/sfa - Time skip - 2026 Apr 5.md",
+      "sha256_before": "f4841bd33857d3046159a748e413d524b0f0df9db92cab2a86589dfb95feddfa",
+      "sha256_after": "f4841bd33857d3046159a748e413d524b0f0df9db92cab2a86589dfb95feddfa"
+    }
+  ],
+  "link_replacements": [
+    {
+      "file": "overview/Sunflowers for Austin.md",
+      "before": "[[Spirits And Emotions/Writing/Sunflowers for Austin/Ideas|Ideas]]",
+      "after": "[[Ideas]]"
+    },
+    {
+      "file": "overview/Sunflowers for Austin.md",
+      "before": "[[Spirits And Emotions/Writing/Sunflowers for Austin/Resources|Resources]]",
+      "after": "[[Resources]]"
+    },
+    {
+      "file": "overview/Sunflowers for Austin.md",
+      "before": "[[Spirits And Emotions/Writing/Sunflowers for Austin/Glossary|Glossary]]",
+      "after": "[[Glossary]]"
+    }
+  ]
+}
