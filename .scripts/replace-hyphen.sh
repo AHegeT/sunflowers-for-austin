@@ -1,4 +1,5 @@
 #!/bin/bash
-# Converts dialogue lines that start with "- " into proper em-dashes ("— ")
-# so mdBook renders them correctly. Safe to re-run (idempotent).
-sed -i '' 's/^- /— /g' manuscript/en/*.md manuscript/es/*.md
+# Format dialogue as separate Markdown paragraphs. Works from any directory.
+set -euo pipefail
+script_dir="$(cd -- "$(dirname -- "$0")" && pwd)"
+exec python3 "$script_dir/format-dialogue.py" "$@"

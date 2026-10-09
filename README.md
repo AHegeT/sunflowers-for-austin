@@ -30,7 +30,9 @@ cargo install mdbook-frontmatter-strip --version 1.1.3 --locked
 | `mdbook serve` | Serves the English edition locally at `http://localhost:3000` with live reload (watches `manuscript/en`) |
 | `mdbook serve manuscript/es` | Serves the Spanish edition locally with live reload |
 | `mdbook build manuscript/en && mdbook build manuscript/es` | Builds both editions into `book/`, mirroring the production build ([`.scripts/vercel-build.sh`](.scripts/vercel-build.sh)) |
-| `./.scripts/replace-hyphen.sh` | Converts dialogue lines that start with `- ` into proper em-dashes (`— `) across `manuscript/en` and `manuscript/es` so mdBook renders them correctly. Safe to re-run. |
+| `./.scripts/replace-hyphen.sh` | Separates em-dash dialogue and known speaker labels into Markdown paragraphs in both editions. Preserves ordinary lists, frontmatter, code blocks, and `SUMMARY.md`. Requires Python 3; safe to re-run. |
+| `./.scripts/replace-hyphen.sh --check` | Reports dialogue formatting changes without writing files; exits with status 1 if changes are needed. |
+| `./.scripts/replace-hyphen.sh --legacy-hyphens manuscript/en/your-chapter.md` | Also converts bare `- ` lines into em-dash dialogue in the specified chapter. Use only when its non-link lists are dialogue. |
 | `./.scripts/bump-mdbook.sh` | Checks for newer `mdbook` / `mdbook-frontmatter-strip` releases, test-builds both editions locally, and — only if that succeeds — updates the version pins in `.scripts/vercel-build.sh` and this README together. Leaves everything untouched if the test build fails. |
 
 ### License
