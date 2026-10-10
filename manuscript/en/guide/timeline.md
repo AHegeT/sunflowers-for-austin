@@ -23,7 +23,7 @@ A guide to the places and historical references encountered in the story. For th
 <h3 id="2030s">The 2030s</h3>
 <p>Natalia’s history lessons describe a decade of economic development and severe social unrest. Some remember it as a Gilded Age; others emphasize the Great Decay. That disagreement shapes the world’s later attempts at recovery.</p>
 <h3 id="hacienda">Leon’s hacienda and laboratory</h3>
-<p>A site of living-material experiments and hidden spaces. Monty shows Natalia the concealed room where he found Leon, explaining why he believed the death was deliberate.</p>
+<p>A site of living-material experiments and hidden spaces. Monty shows Natalia the concealed room where he found Leon, describing his account of a prepared ritual death and the report he gave about finding the body.</p>
 </div>
 </details>
 <details class="story-reveal" data-reveal-after="4">

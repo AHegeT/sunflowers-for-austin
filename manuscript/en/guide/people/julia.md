@@ -1,4 +1,4 @@
-[World Guide](../index.md) / [People](../people.md) / [Supporting characters](supporting.md) / [Green Hands](groups/green-hands.md)
+[World Guide](../index.md) / [People](../people.md) / [Supporting characters](supporting.md) / [Green Gloves](groups/green-hands.md)
 
 # Julia Valdesienne
 
@@ -15,7 +15,7 @@ An influential figure whose past remains visible in the world around her.
 <div><dt>Born</dt><dd>1976</dd></div>
 <div><dt>Hometown</dt><dd>Fredericksburg, Texas</dd></div>
 <div><dt>Former work</dt><dd>CEO of Valdesienne Form</dd></div>
-<div><dt>Movement</dt><dd>Green Hands</dd></div>
+<div><dt>Movement</dt><dd>Green Gloves</dd></div>
 </dl>
 </aside>
 <article class="wiki-profile-copy">
@@ -33,7 +33,7 @@ An influential figure whose past remains visible in the world around her.
 <section class="wiki-reference-section">
 <h2>Earlier life</h2>
 <p>She came from the Valdés winemaking family in Fredericksburg, moved to New York, and built a biomedical business before helping found Telomere, the company connected to Oculus’s creation.</p>
-<p>She joined the Continuum early, then chose to return to Earth and work with the people who stayed. Rewilding and the Green Hand movement became part of her response to the damage she had witnessed.</p>
+<p>She joined the Continuum early, then chose to return to Earth and work with the people who stayed. Rewilding and the Green Glove movement became part of her response to the damage she had witnessed.</p>
 <h2>Family and responsibility</h2>
 <p>Arcturus and Aurelius are her sons. Family losses and regret over the consequences of her ambitions shape her present wish to rebuild for future generations. Her difficult relationship with Arcturus shows how hard it is to offer help without returning to old habits of control.</p>
 </section>

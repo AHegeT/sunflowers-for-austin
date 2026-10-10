@@ -24,6 +24,6 @@ A restoration leader still shaped by his former service to Oculus.
 <h2>Relationships</h2>
 <p>His devotion to Kaelo reflects his belief that Kaelo helped free him. He deeply distrusts Eva Rostova.</p>
 <h2>At Leon’s funeral</h2>
-<p>He calls Leon a traitor and blames him for the loss of access to the Continuum. He openly rejects Julia’s invitation to work with the Green Hands.</p>
+<p>He calls Leon a traitor and blames him for the loss of access to the Continuum. He openly rejects Julia’s invitation to work with the Green Gloves.</p>
 </article>
 </div>

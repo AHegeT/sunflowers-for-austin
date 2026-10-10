@@ -2,12 +2,15 @@
 
 [Author notes](INDEX.md) · [Chapter map](story/chapters/INDEX.md)
 
+See [Story decisions](workflows/Story%20Decisions.md) for confirmed reference corrections and Chapter 2 direction.
+
 This board records the order agreed in this session. Imported tasks remain in their original notes. This is a navigation and decision aid, not an automatically consolidated list of every old checkbox.
 
 ## 1. Website and reading experience
 
 - [x] Fix collapsed dialogue and protect chapter indexes in the formatter.
-- [ ] Add a book overview, language navigation, and concept-art gallery.
+- [x] Add language navigation, character wiki, and world chronology.
+- [ ] Add a book overview and concept-art gallery.
 - [ ] Give optional side chapters contextual links and a return path.
 - [x] Create a basic English World Guide with a manual chapter selector and voluntary spoiler reveals.
 - [ ] Review the [guide definitions and reveal timing](workflows/World%20Guide%20Sources.md), then translate the reviewed guide into Spanish.
@@ -16,12 +19,14 @@ The existing [author glossary](world/Glossary.md) is source material for review,
 
 ## 2. Chapter 2
 
-Start with the [reading draft](../manuscript/en/02-the_first_day.md), [chapter plan](story/chapters/Chapter%202.md), [setting exploration](story/chapters/Exploring%20the%20Setting%20for%20Chapter%202.md), [2.2 plan](story/chapters/Chapter%202.2.md), and [class roster](characters/Natalia%27s%20Class.md).
+Start with the [current review](workflows/Chapter%202%20Review.md), [reading draft](../manuscript/en/02-the_first_day.md), [chapter plan](story/chapters/Chapter%202.md), [setting exploration](story/chapters/Exploring%20the%20Setting%20for%20Chapter%202.md), [2.2 plan](story/chapters/Chapter%202.2.md), and [class roster](characters/Natalia%27s%20Class.md).
 
 - [ ] Reconcile classroom arrival, principal meeting, and first-class sequence.
 - [ ] Choose the teaching subject consistently. The manuscript uses History and Philosophy; the setting note proposes Pre-fall Economics and Social Science.
 - [ ] Decide which social-reengineering outcomes belong in the main reading path and which detailed experiments stay optional.
-- [ ] Compare the student roster, character briefs, and editing-session names before designing student art.
+- [x] Add all eight students from the roster to the secondary character brief, separating planned classroom material.
+- [ ] Reconcile remaining student references in older drafts before designing student art.
+- [ ] Build the compact classroom resolution from selected 2.2 outcomes; keep detailed experiments optional.
 
 These are editorial decisions to discuss with the author. Do not invent connecting prose or rename characters to resolve them automatically.
 
@@ -47,7 +52,9 @@ Read the existing [Chapter 6 working note](story/chapters/Chapter%206.md) before
 
 - [ ] Establish student designs using the [class roster](characters/Natalia%27s%20Class.md) and [secondary briefs](characters/Character%20Briefs%20-%20Secondary.md), with unresolved visual choices called out.
 - [ ] Try one illustrated scene/script using existing dialogue and concept art.
-- [ ] Build continuity-audit, chapter-limited recap, and story-beat workflows that distinguish manuscript facts, character beliefs, plans, and possibilities.
+- [ ] Create a continuity-audit skill that distinguishes manuscript facts, character beliefs, plans, and possibilities.
+- [ ] Create a chapter-limited recap skill, including character and mystery perspectives.
+- [ ] Create a story-beat and next-step tracking skill.
 - [x] Create reusable `story-translate` and `story-retcon` skills for edition updates and author-directed changes.
 - [ ] Extract the reusable presentation template after the first story demonstrates the workflow.
 

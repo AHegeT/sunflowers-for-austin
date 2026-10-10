@@ -2,7 +2,7 @@
 
 # Arcturus Valdesienne
 
-The CEO of Apex Technologies, accustomed to authority and deference.
+The CEO of Apex Galilei Technologies, accustomed to authority and deference.
 
 <div class="wiki-profile-layout">
 <aside class="wiki-infobox" aria-label="Basic information about Arcturus Valdesienne">
@@ -11,7 +11,7 @@ The CEO of Apex Technologies, accustomed to authority and deference.
 <dl>
 <div><dt>Name</dt><dd>Arcturus Valdesienne</dd></div>
 <div><dt>Occupation</dt><dd>CEO</dd></div>
-<div><dt>Organization</dt><dd>Apex Technologies</dd></div>
+<div><dt>Organization</dt><dd>Apex Galilei Technologies</dd></div>
 <div><dt>First appearance</dt><dd>Chapter 4</dd></div>
 <div><dt>Full name</dt><dd>Julius Arcturus Valdesienne</dd></div>
 <div><dt>Age</dt><dd>55</dd></div>

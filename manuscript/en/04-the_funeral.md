@@ -17,7 +17,7 @@ The egg started out very small, almost could fit inside of Natalia's cupped hand
 
 Then, one day, Natalia got a letter:
 We would like to invite you to the funeral of Leon Diaz-Abbatini
-To be organized by Apex Technologies and held in Tepoztlan, Morelos, Mexico.
+To be organized by Apex Galilei Technologies and held in Tepoztlan, Morelos, Mexico.
 
 Paloma- Should we go?
 
@@ -36,7 +36,7 @@ Paloma- How he met Monty, right?
 N- Yes, and they also worked on the Yosemite-C together. How I came to know the two.
 
 Later that night, Natalia struggled to fall asleep. She held the egg next to her like a comfort blanket. She was technically on leave from her job, she should probably keep a low profile. At the same time, she couldn't shake the feeling there was more to it. Could they know about the egg? Why did Leon leave behind such a thing for her?
-Knowing Apex Technologies and the CEO, letting them find out about the egg would be a terrible idea. It would be best to skip the funeral.
+Knowing Apex Galilei Technologies and the CEO, letting them find out about the egg would be a terrible idea. It would be best to skip the funeral.
 ## Planning to infiltrate the funeral
 
 The next day at class.
@@ -112,7 +112,7 @@ The plan was to stay out of their sight until the event and look very pregnant u
 The day of the event, Paloma showed up as her doula. With a bag for everything for the egg and also for Natalia to stay for a day or two in the lab.
 While at the gate, something went wrong and Monty wasn't the one checking Natalia, but Paloma's temper took care of him not patting Natalia too much and giving extra considerations to the pregnant woman at the funeral. Natalia acted the part of the distraught mentee.
 
-Inside the Hacienda, it was a veriable who-is-who of important people. Natalia wasn't sure of why they invited so many influential people, but this made her more alert. She even spotted Lena Pretova and her father, as well as Julia Valdesienne. These were the people who once controlled the world and who led it to its current state. And from the looks of it, they still enjoyed insulation from the harsh realities of the current state of it.
+Inside the Hacienda, it was a veriable who-is-who of important people. Natalia wasn't sure of why they invited so many influential people, but this made her more alert. She even spotted Lena Petrova and her father, as well as Julia Valdesienne. These were the people who once controlled the world and who led it to its current state. And from the looks of it, they still enjoyed insulation from the harsh realities of the current state of it.
 
 Once they were in, she needed to know why they were gathered here. Were they here to mourn Leon or something else?
 
@@ -150,7 +150,7 @@ Paloma- It seems like we're in the clear, though.
 
 ## Evading Arcturus
 
-That's when Natalia saw those burning, yellow eyes. Across the room, she spotted Arcturus Valdesienne, the CEO of Apex Technologies.
+That's when Natalia saw those burning, yellow eyes. Across the room, she spotted Arcturus Valdesienne, the CEO of Apex Galilei Technologies.
 She had seen him many times on screens but only twice before in person. She remembered those piercing eyes and his cold gaze. And she felt a chill the moment their eyes met. Oh no, he knew who she was.
 
 She immediately turned away and broke the line of sight, talking to another guest and trying to blend in. But she could feel him looking her way.
@@ -314,7 +314,7 @@ Rostova- As well as your boy's, right Julia?
 
 Julia- We can stay here and argue about whose fault it was, but things clearly aren't getting any better. We need to organize again.
 
-Thorne- Organize? We're not joining your little militia group, Julia. The Green Hands are just children playing in the mud.
+Thorne- Organize? We're not joining your little militia group, Julia. The Green Gloves are just children playing in the mud.
 Sharma- What do you have in mind, Julia?
 
 Julia- We came together before againt a common foe. We can do it again. There is evidence of movements that are making progress. This area right here is a testament to that. Cuernavaca was hit hard by climate catastrophe and it's now thriving.
@@ -460,7 +460,7 @@ A- Do you want me to fire you? Is that what you want?
 
 N- Sir.
 
-A- "Sir, sir, sir". Is that the only thing you know how to say? Do we hire morons at Apex Technologies?
+A- "Sir, sir, sir". Is that the only thing you know how to say? Do we hire morons at Apex Galilei Technologies?
 
 N- I am no moron…sir.
 

@@ -9,7 +9,7 @@ A geneticist and her father, joined by life-extension technology.
 <h2>Basic information</h2>
 <div class="wiki-image-placeholder"><span>Character artwork</span><small>Coming soon</small></div>
 <dl>
-<div><dt>Name used</dt><dd>Lena Pretova</dd></div>
+<div><dt>Name used</dt><dd>Lena Petrova</dd></div>
 <div><dt>Lena’s age</dt><dd>80s</dd></div>
 <div><dt>Work</dt><dd>Geneticist</dd></div>
 <div><dt>Companion</dt><dd>Ihor, her father</dd></div>

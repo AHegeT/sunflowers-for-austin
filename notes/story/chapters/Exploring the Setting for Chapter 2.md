@@ -12,10 +12,10 @@ Goals
 	- She now teaches Pre-fall Economics and Social Science
 - [x] Update first day of class ✅ 2026-02-20
 	- Now Natalia is teaching pre-fall econ
-	- Ends with clapping
+	- Applause removed by author decision; Natalia takes her polished delivery as success
 - [x] Update second day of class ✅ 2026-02-20
 	- Now Natalia notices things, students tap a lot and laugh sporadically
-	- Ends with standing ovation
+	- Standing ovation removed by author decision; tapping and private laughter remain
 	- Third class still ends with her running out, now realizing that they're mocking her
 - [ ] Update conversation with Paloma
 	- She explains why and how she's bullied

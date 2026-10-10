@@ -1,6 +1,6 @@
 [World Guide](../../index.md) / [People](../../people.md) / [Supporting characters](../supporting.md)
 
-# Green Hands
+# Green Gloves
 
 People involved in rewilding and community rebuilding.
 

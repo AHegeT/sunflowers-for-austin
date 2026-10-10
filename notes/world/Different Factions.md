@@ -88,7 +88,7 @@ These terms describe their core psychological trait. The decade of isolation aft
 A biomedical company founded by Julia Valdesienne that directly led to life extension.
 ## Telomere
 An ambitious company of the 40s that directly led to the creation of the AI god. Many prominent figures of the era were involved in one way or another with it, along with Julia and Arcturus Valdesienne.
-## Apex Galilei
+## Apex Galilei Technologies
 Arcturus's company, heavily involved in the Great Upload and now with the Revivalist Austin and the recreation of compakins.
 # The Different Eras
 - 2020s: The Pandemic Era

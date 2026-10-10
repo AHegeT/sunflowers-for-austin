@@ -30,7 +30,7 @@ Natalia’s former mentor, whose research and invitation draw her to Cuernavaca.
 </section>
 <section class="wiki-reference-section">
 <h2>The laboratory</h2>
-<p>Monty reveals a hidden room and explains why he believed Leon’s death was deliberate. The laboratory’s living structures suggest that the artifact was part of a larger body of work.</p>
+<p>Monty reveals a hidden room, describes the preparations behind Leon’s ritual death, and explains his belief that it was suicide. The laboratory’s living structures suggest that the artifact was part of a larger body of work.</p>
 </section>
 <section class="wiki-reference-section">
 <h2>His legacy</h2>

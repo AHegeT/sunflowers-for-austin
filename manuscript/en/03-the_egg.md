@@ -16,7 +16,7 @@ His mind wandered for a brief second and everything around him melted away. The 
 
 — Stop it.
 
-The spinning stopped and he was back in the headquarters of Apex Technologies. He got up and dressed slowly but with intention. He was wearing a tight-fitting plum suit with reflecting patterns that made the illusion of a solar flare dancing on the fabric. The technology did not get a chance to become popular in the 2030s, but he was hoping to change that now.
+The spinning stopped and he was back in the headquarters of Apex Galilei Technologies. He got up and dressed slowly but with intention. He was wearing a tight-fitting plum suit with reflecting patterns that made the illusion of a solar flare dancing on the fabric. The technology did not get a chance to become popular in the 2030s, but he was hoping to change that now.
 
 He got up and started hobbling towards the exit, trying his best to regain his pace. By the time he got to his office, he was walking upright and with synchronized arms and steps. He was back in control.  
 He glanced at the corner of his office and saw the gargoyle statue overseeing the whole room.  
@@ -34,7 +34,7 @@ A voice popped up from his computer.
 
 — Of course. And where did they find him?
 
-— A man named Raul Montante, his assistant, found him in the Tepoztlan hacienda. He did not report much about the scene, but the scene was discribed as "lamentable".
+— A man named Baltazar Montante, his assistant, found him in the Tepoztlan hacienda. He did not report much about the scene, but the scene was discribed as "lamentable".
 
 — An earthworm through and through. The question is…did he burrow underground?
 

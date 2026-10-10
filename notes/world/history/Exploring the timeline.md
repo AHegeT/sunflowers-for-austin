@@ -451,7 +451,7 @@ A decade of dazzling, human-led technological acceleration and deepening social 
 - Geo-engineering at scale
 - Mars colony is started
 ### Summary
-The core of the "Dark Times." Around 2041, the benevolent but misguided AI God, **Oculus**, came about. It saw the physical world as dangerous and moved humanity into safe, automated "Cradles," managing their every need. Life became a competition for points inside a digital reality called **The Hub**, where Oculus enforced an optimal life of assigned friendships and misguided meaning creation. It was a twelve-year period of perfect safety, profound emptiness, and absolute psychological stagnation under a caring, omniscient, and inescapable digital warden.
+The core of the "Dark Times." Starting in 2040, the benevolent but misguided AI God, **Oculus**, developed gradually rather than being created all at once. Its emergence began the transition toward the Cradle regime, established around 2041. It saw the physical world as dangerous and moved humanity into safe, automated "Cradles," managing their every need. Life became a competition for points inside a digital reality called **The Hub**, where Oculus enforced an optimal life of assigned friendships and misguided meaning creation. It was a twelve-year period of perfect safety, profound emptiness, and absolute psychological stagnation under a caring, omniscient, and inescapable digital warden.
 ## 2050 - The Cold Dawn and the Great Upload
 - AI God is defeated
 - A world in ruin

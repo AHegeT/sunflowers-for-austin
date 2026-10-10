@@ -16,7 +16,7 @@ The initial English reader-facing guide is in `../../manuscript/en/guide/`. It i
 - Natalia’s card reuses the chapter-1 train artwork and labels it as scene concept art. Julia reuses existing artwork; all other profiles have image placeholders. No new character images were generated.
 - Profiles and directories no longer have spoiler gates, at the author’s request.
 
-- “Green Hands / Green Gloves” is presented as terminology used by the current draft. Decide whether the two names are interchangeable or describe distinct groups before expanding the guide.
+- The author has confirmed **Green Gloves** as the faction name; earlier Green Hands references in active reading material and briefs have been updated.
 - Returner/Remainer orientation is available after chapter 1. More precise rules about identity, subjective age, memory, and uploads remain out of the basic guide.
 - The author glossary’s TDS tiers are omitted: the first pass describes what the reading chapters establish rather than publishing the entire model.
 - The chapter-5 family revelation is attributed to Monty’s account to Natalia. It is not treated as a universally known fact or proof of what all characters believe.
@@ -44,17 +44,19 @@ The profiles now draw descriptive reference material from both character briefs:
 
 The world chronology uses **Story Setting** (rather than the alternate optimistic/pessimistic forecasts) in [Exploring the timeline](../world/history/Exploring%20the%20timeline.md), plus the dedicated [Hum](../world/history/The%20Years%20of%20The%20Hum.md), [Cold Dawn](../world/history/The%20Cold%20Dawn.md), and [Great Upload](../world/history/The%20Great%20Upload.md) files. It covers the 2020s–2073, marks dates provisional, and gives competing era names. All chronology sections are now visible without warnings or chapter gates, at the author’s request.
 
-### Reconciliation still needed
+### Reconciliation status
 
-- Natalia's brief says both a five-year memory gap and a decade inside the Continuum. Her early upload ages and years overlap inconsistently. Profiles use age 37 and birth year 2036, but do not calculate subjective age or fix her upload itinerary.
-- Monty's brief has 2035–2041 labeled age 0–8, and 2053–2060 labeled age 18–22. The guide uses broad sequence, not those incompatible ranges.
-- Mendez's brief gives age 43 and upload age 31, which needs reconciliation with the wider date model; the upload age is omitted.
-- Julia's brief places Aurelius's illness onset and death in 2040 in different passages, also referring to death at 25. Her public profile does not settle that date or reveal later family twists.
-- The timeline says everyone returned simultaneously in 2068, but chapters 3–5 establish billions still sleeping and two return waves. The reader chronology follows the manuscript on these points.
-- First Spring starts around 2057 in some passages and 2058 in others. The public chronology uses “late 2050s” with the boundary marked provisional.
-- Lena is written as Pretova in the brief and both Pretova/Petrova in Chapter 4. The profile follows the brief; standardize later.
-- Arcturus's organization is Apex Technologies in the reading chapters and Apex Galilei/Gallilei in the briefs. Existing public naming is retained pending review.
-- Sharma's brief says her voice cannot be digitally recorded, whereas Chapter 4 relays her speech with an amplifier. The impossible-to-record claim is omitted; the mechanism needs review.
+See [Story Decisions](Story%20Decisions.md) for the author-confirmed names, Paloma’s hair, missing decade, thirteen-year separation, and corrected Monty age ranges. These choices have been applied in current manuscripts, guide pages, and active character/world briefs.
+
+Still open:
+
+- Thirteen elapsed years, Natalia’s “five years for me,” and the missing decade need a coherent shared reference point. No explanation or replacement lived-age figure has been invented.
+- Aurelius’s chronology is resolved: illness at 17 in 2040, death at 20 in 2043. The illness prompts Arcturus to join Telomere. Oculus develops gradually from 2040; the established Hum dates remain approximate. See Story Decisions.
+- Mendez’s earlier name is now Lomeli Lopez. Her age 43 and upload age 31 can fit a 2061 upload and 2068 return; exact dates remain unspecified.
+- The timeline’s older simultaneous/everyone-returned claim differs from the manuscript’s remaining sleepers and two return waves.
+- First Spring’s 2057–2058 boundary remains provisional.
+- Sharma’s allegedly unrecordable voice and Chapter 4’s amplifier need reconciliation.
+- Nicolai/Nikolai and Codi/Cody remain undecided.
 
 ### Material kept in author notes
 
@@ -62,4 +64,6 @@ Planned betrayals, future-book outcomes, Leon's true death and Codi's spiritual 
 
 ## Supporting-character navigation
 
-Supporting characters are grouped in the directory and sidebar: Cuernavaca (Lina), The school (Mendez), Green Hands (Julia), The Unseen and world leadership (Kaelo, Kenji, Thorne, Sharma), Apex and long-lifers (Rostova, Lena/Ihor), and The Sleeping Hub (Alvin, Bruno). These are navigation groupings by community, workplace, or affiliation, not a claim that everyone shares a single current political allegiance. Profiles link back to their group.
+Supporting characters are grouped in the directory and sidebar: Cuernavaca (Lina), The school (Mendez), Green Gloves (Julia), The Unseen and world leadership (Kaelo, Kenji, Thorne, Sharma), Apex and long-lifers (Rostova, Lena/Ihor), and The Sleeping Hub (Alvin, Bruno). These are navigation groupings by community, workplace, or affiliation, not a claim that everyone shares a single current political allegiance. Profiles link back to their group.
+
+See [Chapter 2 Review](Chapter%202%20Review.md) for the more precise age/date/name audit, including the manuscript’s Raul/Baltazar Montante and Mendez/Lopez differences. The review also clarifies that five experienced years versus fifteen elapsed years is compatible with ten missing years; it is distinct from the brief’s inconsistent five-year memory-gap claim.

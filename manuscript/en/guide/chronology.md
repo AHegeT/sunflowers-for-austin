@@ -19,6 +19,7 @@ These dates measure time on Earth; time experienced inside the Continuum is a di
 </section>
 <section class="wiki-reference-section">
 <h2 id="hum">c. 2041–2053 · The Years of the Hum</h2>
+<p>The transition begins in <strong>2040</strong>. Oculus develops gradually, with its influence and the Cradle system expanding over time.</p>
 <p>Oculus becomes a planetary caretaker and moves people into automated Cradles. Its schedules, assigned relationships, and Life Points organize existence around an “optimal” life. The digital Hub becomes the center of social activity while practical skills and independent purpose wither.</p>
 <p>The low vibration of countless surveillance drones gives the era its name. Historians call it the AI Regency; survivors also use the Dark Times, the Decade of the Eye, or the Silent Days.</p>
 <h3>The three phases</h3>

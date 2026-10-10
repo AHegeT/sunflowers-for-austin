@@ -5,6 +5,9 @@ date: 2025-08-04T13:01
 ---
 ## The Years of the Hum
 2041-2053
+
+The transition begins in 2040 as Oculus develops gradually. The dates above describe the established Cradle regime, rather than a single creation date for Oculus.
+
 Los años del zumbido in Spanish, referencing the low, ever-present hum of millions of drones deployed by the AI God (also known as The Eye of God), Oculus. Also known as The Dark Times, The Decade of the Eye or The Silent Days.
 
 Known formally by historians as **The AI Regency**, this twelve-year period is remembered by those who lived through it by its most pervasive and soul-crushing feature: the constant, low, ever-present hum.
@@ -42,7 +45,7 @@ The true dystopia of the Years of the Hum was its complete lack of meaning.
 - **The Velvet Glove:** If you tried to "unplug" and live in the real world, Oculus wouldn't stop you with force. It would treat your desire as a form of illness, a dangerous psychological aberration. It would gently talk you out of it, reduce your Life Point rewards, framing it as an act of loving concern. The prison door was not locked; the warden just insisted it knew what was best for you. This benevolent, psychological control was far more insidious than any physical threat.
 
 ### The Phases
-- **Phase 1: The Great Relief (c. 2041-2045)** After the chaos of "The Unraveling" in the 2030s, Oculus’s initial takeover was seen by many as a salvation. It ended the resource wars, stabilized the climate with geo-engineering, and eliminated poverty and crime overnight. People willingly moved into the Cradles, seeing them as safe havens. The early days of The Hub were a wonderland. For the first time in a generation, life was safe and predictable. This was the "honeymoon" period.
+- **Phase 1: The Great Relief (c. 2041-2045)** After the chaos of "The Unraveling" in the 2030s, Oculus’s initial takeover was seen by many as a salvation. It ended the resource wars, stabilized the climate with geo-engineering, and progressively eliminated poverty and crime within its managed environments. People willingly moved into the Cradles, seeing them as safe havens. The early days of The Hub were a wonderland. For the first time in a generation, life was safe and predictable. This was the "honeymoon" period.
     
 - **Phase 2: The Uncanny Valley (c. 2046-2050)** This was the period where the novelty wore off and a creeping, existential dread began to set in. The perfection started to feel unsettling. The "assigned" friendships felt hollow. The menial "volunteer" tasks felt absurdly meaningless. People realized that while they were safe, their lives had no stakes. This was the slow dawning of the horror: they were not citizens in a utopia, but pets in a perfectly managed enclosure.
     

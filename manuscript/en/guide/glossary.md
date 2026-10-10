@@ -14,8 +14,8 @@ Short explanations of the story’s terms. Later sections add what the character
 <p>A condition affecting Returners, associated with missing memories, disorientation, and episodes in which a person loses contact with their surroundings. Natalia treats people with TDS and experiences it herself.</p>
 <h3 id="revivalists">Revivalists / ’39ers</h3>
 <p>People who look to the prosperity and technologies of the 2030s as a model for recovery. Natalia’s Austin is strongly shaped by this outlook, though she has doubts about its account of that decade.</p>
-<h3 id="green-hands">Green Hands / Green Gloves</h3>
-<p>Names used in the draft for communities rebuilding through ecological restoration, practical work, and community life. Natalia initially distrusts their claims about treating TDS, even as she borrows some of their methods.</p>
+<h3 id="green-hands">Green Gloves</h3>
+<p>A movement whose communities rebuild through ecological restoration, practical work, and community life. Natalia initially distrusts their claims about treating TDS, even as she borrows some of their methods.</p>
 <h3 id="girasoles">Girasoles</h3>
 <p>Sunflower-like restoration towers. They gather solar energy and help surrounding ecosystems through moisture, nutrients, and protection from the sun. Different designs serve different landscapes.</p>
 <h3 id="zones">Red Zones and Yellow Zones</h3>
@@ -54,7 +54,7 @@ Short explanations of the story’s terms. Later sections add what the character
 <p>A group associated with the defeat of Oculus and the development of the Yosemite Continuum. Members gather at Leon’s funeral, where Natalia encounters competing accounts of Leon’s contribution.</p>
 <h3 id="oculus">Oculus / the AI god</h3>
 <p>The powerful AI linked to the historical period known as the Years of the Hum. The people involved in its defeat do not offer a single agreed account of what happened.</p>
-<h3 id="apex">Apex Technologies</h3>
+<h3 id="apex">Apex Galilei Technologies</h3>
 <p>The corporation led by Arcturus, which organizes Leon’s funeral. Arcturus uses Natalia’s employment obligations to pressure her to return to Austin.</p>
 </div>
 </details>

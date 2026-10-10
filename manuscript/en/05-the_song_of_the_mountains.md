@@ -72,7 +72,7 @@ Since everyone in her class already knew about Codi, she was able to carry him w
 ---
 
 # Sleeping Hub Trip 1
-At the Sleeping Hub, Natalia uses her corporate credentials with Apex Technologies to get in. Though it takes some extra convincing and misrepresentation. She shouldn't be able to bring a whole group of kids with her.
+At the Sleeping Hub, Natalia uses her corporate credentials with Apex Galilei Technologies to get in. Though it takes some extra convincing and misrepresentation. She shouldn't be able to bring a whole group of kids with her.
 Once inside, they meet one of the researchers, a scientist named Alvin, on how the hub worked and what they were able to learn.
 Alvin is pressed for time as he is in one of his 3-hour windows of being awake to take care of the pods and doing maintenance. He reveals everyone there uses an optimized schedule where they sleep most of the day and are only awake for 6 hours per day, in windows of 3 hours.
 This allows them to bypass the effects of their TDS, while also using a technique akin to lucid dreaming. Hypnagogic research, they call it. He explains that TDS works by the harsh transition from a waking state to a dreaming state, so they bypass it by being half awake. He uses one of the remaining pods, which they hope they can use one day to reupload to the Yosemite Continuum.

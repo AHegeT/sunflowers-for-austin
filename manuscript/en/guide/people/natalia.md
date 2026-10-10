@@ -31,7 +31,7 @@ A corporate therapist from Austin whose journey to Cuernavaca brings her into Le
 </section>
 <section class="wiki-reference-section">
 <h2>Work and abilities</h2>
-<p>Natalia becomes a replacement teacher at Marymount. Her memory techniques and somatic override help her deliver lessons, but she initially mistakes the students’ applause for approval.</p><p>Her conversation with Paloma begins to change how she approaches the classroom.</p>
+<p>Natalia becomes a replacement teacher at Marymount. Her memory techniques and somatic override help her deliver lessons, but she initially mistakes polished lecture delivery for successful teaching.</p><p>Her conversation with Paloma begins to change how she approaches the classroom.</p>
 </section>
 <section class="wiki-reference-section">
 <h2>Relationships</h2>

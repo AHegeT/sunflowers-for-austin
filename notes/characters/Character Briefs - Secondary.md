@@ -15,7 +15,8 @@ date: 2025-12-31T10:36
 - Reminds me of
 	- Dolores
 ## The School Staff
-### Directora Mendez
+### Directora Lomeli Lopez
+- **Full name:** Lomeli Lopez
 - The principal who is strict and disconnected from the students
 - A Returner who fears the chaos that came along
 - Unmarried, this troubles her
@@ -29,7 +30,69 @@ date: 2025-12-31T10:36
 	- When the structure party came back, she felt hope and quickly became loyal
 	- She differs from the official
 ## The students
-[[Natalia's Class]]
+
+These short briefs summarize the existing [class roster](Natalia%27s%20Class.md). Ages distinguish biological age from the roster’s estimate of remembered/lived age; they are not independent claims about emotional maturity. Detailed appearance and family histories remain open unless established elsewhere.
+
+### Paloma Soliz
+- **Biological age:** 15
+- **Background:** Remainer
+- **Role:** Prefect, appointed by Directora Lomeli Lopez to report misconduct.
+- **Character:** Investigator and loner; a practical systems thinker who is bullied by classmates. She hopes joining their ridicule will make them stop targeting her.
+- **Appearance:** Curly black hair. See [her main-character brief](Character%20Briefs%20-%20Main.md#paloma-soliz) for the fuller description.
+- **Open question:** How does reporting misconduct make her a target for bullying?
+
+### Ignacio / Shaggy
+- **Biological age:** 16
+- **Background:** Remainer
+- **Character:** Challenger and aloof leader.
+- **Connections:** Nestor’s friend; their shared experience as Remainers matters to their loyalty.
+
+### Daniela
+- **Biological age:** 16
+- **Background:** Returner; one year uploaded.
+- **Roster’s lived-age estimate:** 15
+- **Character:** Achievement-focused; occupies the “mean girl” role in the class plan.
+- **Planned classroom material:** Seeks validation and proximity to Valeria. Her presentation reveals the fear and longing behind the Upload; Aimé supports her when she becomes emotional.
+
+### Valeria
+- **Biological age:** 15
+- **Background:** Returner; three years uploaded.
+- **Roster’s lived-age estimate:** 12
+- **Character:** Reformer and rule enforcer.
+- **Planned classroom material:** Helps Natalia’s project group follow its rules and gives its rationale.
+
+### Santiago / Santi
+- **Biological age:** 15
+- **Background:** Returner; two years uploaded.
+- **Roster’s lived-age estimate:** 13
+- **Character:** Peacemaker and class clown.
+- **Connections:** Best friends with Claus.
+- **Planned classroom material:** Keeps the presentation going while Daniela is upset; proposes a shared dance party as a source of hope.
+
+### Nestor
+- **Biological age:** 15
+- **Background:** Remainer
+- **Character:** Loyalist and sidekick.
+- **Connections:** Shaggy’s friend.
+- **Planned classroom material:** His seating choices are part of Natalia’s effort to understand the pressure around Paloma. Her conclusions remain interpretations to make clear in the scene.
+
+### Aimé
+- **Biological age:** 15
+- **Background:** Returner; two years uploaded.
+- **Roster’s lived-age estimate:** 13
+- **Character:** Helper and crafts girl.
+- **Planned classroom material:** Offers Daniela comfort during her presentation.
+
+### Claus
+- **Biological age:** 16
+- **Background:** Returner; three years uploaded.
+- **Roster’s lived-age estimate:** 13
+- **Character:** Enthusiast and daydreamer.
+- **Connections:** Best friends with Santiago.
+- **Planned classroom material:** Works with Paloma and Nestor on the technological perspective of the Upload.
+
+The seating experiments, presentations, and disclosures are currently in [Chapter 2.2](../../manuscript/en/02.2-social_reengineering.md). They are planned material to select for Chapter 2’s compact resolution, not scenes already present in the main reading chapter.
+
 # International
 ## The Unseen
 
@@ -107,7 +170,7 @@ The convert and operator. He believes they are running out of time and is in a r
 #### Basic Information
 - **Full Name:** Eva Rostova
 - **Age:** 40s
-- **Occupation (Current):** Security leader for Apex Gallilei and other corporations under Arcturus.
+- **Occupation (Current):** Security leader for Apex Galilei Technologies and other corporations under Arcturus.
 - **Occupation (Former):**
 - **Hometown:** 
 #### Physical Description
@@ -124,7 +187,7 @@ Progressive
 She is the brawn protecting Arcturus. Getting close to him means that she will come as a threat.
 ### Lena and Ihor
 #### Basic Information
-- **Full Name:** Lena Pretova
+- **Full Name:** Lena Petrova
 - **Age:** 80s
 - **Occupation (Current):** 
 - **Occupation (Former):**

@@ -24,7 +24,7 @@ Natalia is a woman who wears her exhaustion like a well-tailored, but fraying, s
 
 **Fictional Comparison:** Jessica Jones
 
-Natalia is a brilliant analyst trapped under the weight of her own trauma. As one of the awakened who survived the Yosemite Continuum collapse with a five-year memory gap, she is deeply cynical and disillusioned with the world. She wields a dry, biting sarcasm as her primary defense mechanism, creating an intellectual and emotional wall to keep others at a distance.
+Natalia is a brilliant analyst trapped under the weight of her own trauma. As one of the awakened who survived the Yosemite Continuum collapse with a ten-year memory gap, she is deeply cynical and disillusioned with the world. She wields a dry, biting sarcasm as her primary defense mechanism, creating an intellectual and emotional wall to keep others at a distance.
 
 Though she is a trained psychologist, she is completely unable to process her own pain, choosing instead to suppress it. She is guarded, pragmatic, and initially resistant to any form of emotional vulnerability or whimsical fantasy, as shown by her reactions to Paloma's "pirate crew." Beneath the cynical armor, however, is a person with a powerful conscience and a deeply buried capacity for fierce loyalty and protection. She doesn't want to be a hero; she just wants to be left alone, but her sense of responsibility—to her late mentor and to the vulnerable people she lets past her guard—compels her to act.
 
@@ -115,6 +115,7 @@ She represents the Mother, eventually coming to believe we must understand the t
 - **Full Name:** Paloma Soliz
 - **Age:** 15, born 2058
 - **Occupation:** High School Student at Marymount Cuernavaca.
+- **School role:** Prefect, appointed by Directora Lomeli Lopez to report misconduct.
 - **Hometown:** Cuernavaca
 
 #### Physical Description
@@ -252,14 +253,14 @@ He has a deep love of poetry and stories. He has a deep-seated melancholy that m
 - Zodiac: Scorpio Sun, Capricorn Rising, Cancer Moon
 #### History / Backstory
 He was one of "The Unseen," a brilliant architect of the Yosemite Project alongside Dr. Leon. He felt abandoned when Leon fled with what he considered their shared technology. He believes Leon stole the key to saving the world, forcing him to work with a flawed, unstable version of the Compakins.
-He is the CEO of Apex Galilei, a company he founded to try to become his own person. He worked at one of the companies responsible for creating Oculus, the AI God. He's trying to distance himself from that and his mom's influence.
+He is the CEO of Apex Galilei Technologies, a company he founded to try to become his own person. He worked at one of the companies responsible for creating Oculus, the AI God. He's trying to distance himself from that and his mom's influence.
 - **Age 0-12 (2018-2030):**
 	- He was born in the Hinge Years, a period of societal and technological clashes. He witnessed the birth of AGI at age 12.
 	- The fast progress helped him fix his sever scoliosis and start living a more normal life. A privilege most people didn't get.
 - **Age 15-22 (2033-2040):**
 	- As a driven hard-worker, he took an internship at 15 and worked diligently.
 - **Age 22-35 (2040-2053):**
-	- His brother Aurelius "died" This event led him to join a company called Telomere and become heavily involved in creating the AI God, Oculus.
+	- His brother Aurelius developed a neurodegenerative disease at 17 in 2040. His illness led Arcturus to join Telomere and become heavily involved in developing Oculus. Aurelius died three years later, in 2043, at 20.
 	- Though a proponent of the Cradles, he grew disillusioned with the project and became one of the Unseen, secretly working against the system he helped build.
 - **Age 35-39 (2053-2057):**
 	- He helped create the Yosemite-C and launched the Great Upload.
@@ -274,7 +275,7 @@ He is the CEO of Apex Galilei, a company he founded to try to become his own per
 - **Natalia:** A frustrating loose end and a living reminder of Leon's betrayal.
 - **Nicolai:** A valuable but ultimately disappointing pawn.
 - **Aurelius (Compakin):** A prototype compakin that looks like a tall, gothic gargoyle.
-- **Aurelius (Brother)**: His deceased brother, whom he both envied and loved. He died of a neurodegenerative decease when he was 25.
+- **Aurelius (Brother)**: His deceased brother, whom he both envied and loved. He developed a neurodegenerative disease at 17 in 2040 and died three years later, at 20 in 2043.
 - **Julia**: He absolutely hates his mother. They are very similar and, despite not being a bad mother, she was never at ease with him. She is trying to help him avoid her same mistakes, but Julia’s attempts to "help" him or guide him toward change feel to him like her saying, _"You are inherently broken."_
 - **Paloma**: At first, only Paloma knows him, but later, they despise each other. Paloma and Arcturus are two sides of the same coin: both are tech-savvy, isolated, and rely on rigid, black-and-white structures to feel safe in a chaotic world. She often mocks him as a "good boy" (like a dog) or a cringe tech-bro.
 #### Character Arc & Objective
@@ -351,19 +352,19 @@ Patient, sincere, and deeply committed to his community. He embodies the "Green 
 - Zodiac: Taurus Sun, Scorpio Moon, Capricorn Rising
 #### History / Backstory
 He grew up with Natalia before she left for the corporate world of Austin. He stayed behind during the Upload, living through the collapse and helping to physically rebuild his community. He holds a deep affection for the woman Natalia was and hopes she can find that person again.
-- He lived through societal turmoil when he was a child, but was able to remember a time before Oculus, in 2041
+- He lived through societal turmoil when he was a child, but was able to remember a time before the Cradle regime became established around 2041
 - He spent ages 6-16 in the cradle, where he met Natalia, being 1 year her senior.
 - He was able to escape the cradle 2 years before its collapse.
 - He worked closely with Leon during the Cold Dawn and reunited with Natalia before the Great Upload, when he was 25.
 - From ages 22-33, he lived through the First Spring and put in hard work to get the world back to a good place.
 - He has been separated from Natalia for around 13 years.
-- Age 0-8 (2035-2041):
+- Age 0-6 (2035-2041):
 	- He was born in the Gilded Age and Great Decay and has personal memories of the world before the AI God. He lived through the period of social turmoil as a child.
 - Age 8-16 (2043-2051):
 	- He spent his early teenage years in a Cradle where he met his childhood friend, Natalia, who was a year his junior.
 - Age 16-18 (2051-2053):
 	- In a powerful act of defiance, he escaped the Cradle two years before its collapse, gaining a head start on adapting to the post-Oculus world.
-- Age 18-22 (2053-2060):
+- Age 18-25 (2053-2060):
 	- He worked closely with Leon during the Cold Dawn and eventually reunited with Natalia.
 - Age 25 (2060):
 	- He saw Natalia for the last time in 13 years.
@@ -420,7 +421,7 @@ He infuses his spirit into Codi but not his memories, allowing himself to be bor
 #### Basic Information
 - **Name:** Julia Valdesienne
 - **Age:** 97, born 1976
-- **Occupation:** Ex-CEO of Valdesienne Form, Green Hand leader
+- **Occupation:** Ex-CEO of Valdesienne Form, Green Glove leader
 - **Hometown:** Fredericksburg, Texas
 #### Physical Description
 Julia is one of the first long-lifers. She is in very good shape for her age, has a metallic backbone that she uses to connect to an exoskeleton. She is beautiful and refined but tends to wear her hair on a braid.
@@ -432,10 +433,10 @@ She used to be cold and calculating, very focused on efficiency and detesting we
 #### History / Backstory
 Her family were lower class winemakers from Fredericksburg, the Valdés. She was born with mild scoliosis that would give her a characteristic and "refined" S-shaped posture.
 She made a name for herself by moving to New York and started working in medicine, starting her own biomedical company, ValdeSienne Form. She became extremely wealthy from that and launched different ventures. She went on to help found Telomere, the company that would create the AI God.
-Following its fall, she experienced many losses in her family, seeing her life's work reduced to ruins. Seeing the effects of climate catastrophe and her own harshness, she started working on herself and her spirituality, joining the Green Hand movement of rewilding.
+Following its fall, she experienced many losses in her family, seeing her life's work reduced to ruins. Seeing the effects of climate catastrophe and her own harshness, she started working on herself and her spirituality, joining the Green Glove movement of rewilding.
 She had two children when she was in her 40s: Julius Arcturus and Aurelius.
 Julius was conceived accidentally when she thought she could no longer have children. He was born with sever scoliosis, along with other issues that made doctors think he wouldn't live long. Julia decided to have another, "perfected" child through surrogacy.
-Aurelius was born as the "golden boy", who excelled in everything and was meant to take on the family legacy. He was close to Julius and Leon, but developed a neurodegenerative disease when he was 17, in 2040, and eventually died from it. This scarred Julia deeply as she couldn't save him despite all her resources.
+Aurelius was born as the "golden boy", who excelled in everything and was meant to take on the family legacy. He was close to Julius and Leon, but developed a neurodegenerative disease when he was 17, in 2040, and died from it three years later, at 20 in 2043. This scarred Julia deeply as she couldn't save him despite all her resources.
 Realizing he wouldn't be able to be saved, she had doctors use her son's semen to father multiple children so his legacy would live on.
 Arcturus and Julia have a bio-engineered spine made out of cobalt-chromium and titanium to fix their scoliosis.
 - **Age 0-44 (1976-2020):**
@@ -443,7 +444,7 @@ Arcturus and Julia have a bio-engineered spine made out of cobalt-chromium and t
 	- Unlike her children, she has a complete memory of a world without AI and climate catastrophes.
 	- She gave birth to her son Arcturus at 42 and had a second son, Aurelius, at 47.
 - **Age 64-77 (2040-2053):**
-	- Her son Aurelius died when she was 64.
+	- Her son Aurelius became ill when she was 64, in 2040, and died when she was 67, in 2043.
 	- She was treated "like royalty" during the Years of the Hum, living in a Cradle.
 - **Age 81 (2057):**
 	- She was one of the first people to join the **Yosemite-C** during the **Great Upload**.

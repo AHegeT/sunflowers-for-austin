@@ -143,7 +143,7 @@ They moved on to the Principal's office after a long wait. Natalia's class was m
 
 — N- Then what were you referring to?
 
-— M- Being here again. I haven't seen you in 15 years…and we're back at school. Waiting on the Principal like we were…15 again.
+— M- Being here again. I haven't seen you in 13 years…and we're back at school. Waiting on the Principal like we were…15 again.
 
 — N- It's only been 5 years for me…
 
@@ -203,7 +203,7 @@ They moved on to the Principal's office after a long wait. Natalia's class was m
 
 The Principal comes out. She has big hair and is wearing a lot of jewelry.
 
-— D- Hello, hello. I'm Lomeli Mendez, I run the school here. Sorry you had to wait, there is a lot that needs to happen for 2 new teachers to come in out of the blue. And you know how Leon left us with many plates spinning.
+— D- Hello, hello. I'm Lomeli Lopez, I run the school here. Sorry you had to wait, there is a lot that needs to happen for 2 new teachers to come in out of the blue. And you know how Leon left us with many plates spinning.
 
 — M and N- …
 
@@ -243,7 +243,7 @@ The Principal comes out. She has big hair and is wearing a lot of jewelry.
 
 — M- Already?\!
 
-— N- I'll see you later, Monty. Nice to meet you, Directora Mendez\! I'm going to have to run now\!\!
+— N- I'll see you later, Monty. Nice to meet you, Directora Lopez\! I'm going to have to run now\!\!
 
 She ran and made it 2 minutes late to the class. It really was much faster to just turn right.
 
@@ -281,15 +281,7 @@ Just as the analog bell rang.
 
 She reconvenes with Monty. They ride the train back.  
 
-M- And then they clapped?
-
-N- They did. Apparently I did such a good job, they haven't had a teacher deliver such a polished lecture.
-
-M- I don't know, these are highschool students. Did you imagine it?
-
-N- No, they actually went ahead and clapped after I was done\!
-
-M- …
+N- Apparently I did such a good job, they haven't had a teacher deliver such a polished lecture.
 
 M- Well, I'm going to the Hacienda today. You're welcome to come if you want. I could use your luck.
 
@@ -363,14 +355,14 @@ They feel like someone might be watching them. Or it might just be the oppresive
 
 ## The second class
 
-She started the lecture like she did the first time. But she wondered about the applause. She didn't want to let the intrusive thoughts pop in, but perhaps she could be more present to learn about her students. She was going to be doing this for the upcoming months, so perhaps collecting some more data and understanding her students could be beneficial.  
+She started the lecture like she did the first time. She didn't want to let the intrusive thoughts pop in, but perhaps she could be more present to learn about her students. She was going to be doing this for the upcoming months, so perhaps collecting some more data and understanding her students could be beneficial.
 She didn't rely on the override this time. The trusted herself to focus on the concepts and the notes she has studied.  
 She started noticing something odd…the students were constantly tapping at their desk with their fingers. She carried on.  
 In the middle of a sentece, 3 students started laughing out of nowhere. She stopped and they shut up. The tapping intensified. Perhaps this was a way in which the younger generation was dealing with stress. After all, they were teenagers undergoing puberty and new to the 10th grade. She was about to remember what it must've been like for her, but her training stopped her on the spot. "This could trigger an episode". She knew by now that reflecting on experienes as old as this, could have some very bad side effects. And she wasn't going to let her perfect streak end. So she composed herself and carried on.
 
-By the end of the lecture, she thanked her class…and then, frantic tapping on the desks, she started feeling anxious, but then…the clapping began. First one student, then another. The whole class joined in, one stood up, then another. A whole classroom was doing a standing ovation for her and she felt humbled and elated at the same time. She thanked them all with a smile and then noticed a girl in the corner looking irritable.
+By the end of the lecture, she thanked her class and noticed a girl in the corner looking irritable.
 
-N- Thank you, thank you. Excuse me, miss. Is there something that didn't land well?
+N- Excuse me, miss. Is there something that didn't land well?
 
 The girl looked around to make sure she was being addressed. "No, no. 2030s. Chaos and corporations booming. I got it all. No notes." She said, withdrawing back into her hoodie after she was done. There was more tapping on the desks and snickering. Natalia found this odd.
 
@@ -426,7 +418,7 @@ N- Could you stop it with the tapping?? What is going on???
 
 One of the kids raised his hand and looked at Paloma. "Ooh, miss prefect, you better get on with stopping that unruly behavior, no?". Everyone started laughing, and the added tapping became cacophonous.
 
-Natalia quickly became overwhelmed. She realiez they had always been laughing. The clapping, the standing ovation. They had all been laughing at her…
+Natalia quickly became overwhelmed. She realized they had all been laughing at her…
 
 N- That is enough for today. Class dismissed.
 
@@ -442,7 +434,7 @@ A smaller body sat down next to her. Her arms folded over her legs.
 
 — I thought it would help me. Maybe if I said what everyone was thinking…
 
-Natalia turned around to find the girl with curly brown hair. 
+Natalia turned around to find the girl with curly black hair.
 
 — It would stop them from picking on me.
 
