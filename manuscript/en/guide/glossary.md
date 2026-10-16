@@ -32,6 +32,10 @@ Short explanations of the story’s terms. Later sections add what the character
 <p>Natalia’s tapping-based technique for interrupting distress and regaining control. It can help her function, but the classroom exposes the difference between delivering information and being present with other people.</p>
 <h3 id="haliatus">Haliatus mycelium</h3>
 <p>A living material used in Leon’s experiments. Monty demonstrates how a structure made from it can be dismantled to reveal a hidden room.</p>
+<h3 id="coalition">The Coalition</h3>
+<p>An interim government formed after the Great Return by a coalition of Returners and Remainers. It moved quickly to stabilize institutions and communities, but cracks in the alliance and severe TDS among many Returners contributed to its dissolution. It was later replaced by local and state governments.</p>
+<h3 id="hacienda">The Hacienda</h3>
+<p>A century-old hacienda in Tepoztlán that Dr. Leon uses as his home and base of operations. Beneath it is an underground laboratory where he conducts experiments involving fungi and topics related to the Yosemite Continuum.</p>
 <h3 id="codex">The Codex</h3>
 <p>A strange book left to Natalia by Leon. It appears when she breathes into a conch-like object. Its connection to the living structures in his laboratory raises more questions than it answers.</p>
 </div>

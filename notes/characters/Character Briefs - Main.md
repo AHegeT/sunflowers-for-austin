@@ -443,6 +443,7 @@ Arcturus and Julia have a bio-engineered spine made out of cobalt-chromium and t
 	- Her formative years were in the late 20th century.
 	- Unlike her children, she has a complete memory of a world without AI and climate catastrophes.
 	- She gave birth to her son Arcturus at 42 and had a second son, Aurelius, at 47.
+	- She froze her eggs in her 30s and used those for Arcturus's birth. However, the rest were discarded and she found out about his congenital problem during pregnancy. Soon after his birth, she froze eggs one last time which underwent a series of tests and improvements to remove any defects. Despite this, Aurelius was still born with a Huntington's-like neuorological disease wich did not show up until his teens, being super healthy and optimal before that.
 - **Age 64-77 (2040-2053):**
 	- Her son Aurelius became ill when she was 64, in 2040, and died when she was 67, in 2043.
 	- She was treated "like royalty" during the Years of the Hum, living in a Cradle.

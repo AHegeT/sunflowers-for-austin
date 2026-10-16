@@ -1,6 +1,6 @@
 [World Guide](../index.md) / [People](../people.md) / [Main characters](main.md)
 
-# Dr. Leon
+# León Diaz-Abbatini
 
 Natalia’s former mentor, whose research and invitation draw her to Cuernavaca.
 
