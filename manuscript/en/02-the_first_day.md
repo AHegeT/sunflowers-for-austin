@@ -1,3 +1,11 @@
+The world was dying--burning. So we built an ark to carry us into the future. We would sleep for centuries while the world healed, and dream of Utopia.
+But our vessel failed one day, just for half of us, and we woke up to a world that no longer wanted us nor could hold us.
+For the few that refused, this was like the dead rising up from their graves.
+For the rest of us, the Yosemite-C was the dream and real world was Purgatory.
+Where we belonged.
+
+Leon Diaz-Abbatini
+
 ## The Fugue
 
 [Montante](guide/people/monty.md) found her aboard the train after she was coming back on the second round trip. People around her said she went into a fugue state, that she seemed catatonic, but she knew it was just her [TDS](guide/glossary.md#tds) acting up. It was common for people to experience an episode after distressing news or moments of stress.  
