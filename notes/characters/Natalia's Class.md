@@ -4,7 +4,7 @@ project: "[[Sunflowers for Austin]]"
 ---
 Students
 1. Paloma Soliz
-	- Prefect, appointed by Directora Lomeli Lopez to report misconduct.
+	- Prefect, appointed by Directora Lomeli Mendez to report misconduct.
 	- Curly black hair.
 	1. Enneagram: 5-Investigator / Loner
 	2. Bio Age: 15

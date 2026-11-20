@@ -127,7 +127,7 @@ There was a noticeable deflation in the in the room. She, once again, said the w
 
 — Well, no offense, Miss Natalia. But…this place is so boring.
 
-— I can't have you skipping class. Principal Lopez would find out immediately. And we do have to cover the syllabus.
+— I can't have you skipping class. Principal Mendez would find out immediately. And we do have to cover the syllabus.
 
 The energy stayed at ground level. Before long, the bell rang and Natalia stood while everyone left. Everyone, except, unsurprisingly, Paloma.
 

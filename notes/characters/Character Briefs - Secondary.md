@@ -15,8 +15,8 @@ date: 2025-12-31T10:36
 - Reminds me of
 	- Dolores
 ## The School Staff
-### Directora Lomeli Lopez
-- **Full name:** Lomeli Lopez
+### Directora Lomeli Mendez
+- **Full name:** Lomeli Mendez
 - The principal who is strict and disconnected from the students
 - A Returner who fears the chaos that came along
 - Unmarried, this troubles her
@@ -36,7 +36,7 @@ These short briefs summarize the existing [class roster](Natalia%27s%20Class.md)
 ### Paloma Soliz
 - **Biological age:** 15
 - **Background:** Remainer
-- **Role:** Prefect, appointed by Directora Lomeli Lopez to report misconduct.
+- **Role:** Prefect, appointed by Directora Lomeli Mendez to report misconduct.
 - **Character:** Investigator and loner; a practical systems thinker who is bullied by classmates. She hopes joining their ridicule will make them stop targeting her.
 - **Appearance:** Curly black hair. See [her main-character brief](Character%20Briefs%20-%20Main.md#paloma-soliz) for the fuller description.
 - **Open question:** How does reporting misconduct make her a target for bullying?

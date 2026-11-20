@@ -17,7 +17,7 @@ The household and everyday life around Natalia’s new home.
 Staff at Marymount, where Natalia and Monty take over Leon’s classes.
 
 <div class="wiki-card-grid">
-<a class="wiki-card" href="mendez.html"><strong>Directora Lomeli Lopez</strong><span>The principal at Marymount.</span><span class="wiki-card-meta">Introduced in Chapter 2</span></a>
+<a class="wiki-card" href="mendez.html"><strong>Directora Lomeli Mendez</strong><span>The principal at Marymount.</span><span class="wiki-card-meta">Introduced in Chapter 2</span></a>
 </div>
 
 ## Green Gloves

@@ -52,7 +52,7 @@ Still open:
 
 - Thirteen elapsed years, Natalia’s “five years for me,” and the missing decade need a coherent shared reference point. No explanation or replacement lived-age figure has been invented.
 - Aurelius’s chronology is resolved: illness at 17 in 2040, death at 20 in 2043. The illness prompts Arcturus to join Telomere. Oculus develops gradually from 2040; the established Hum dates remain approximate. See Story Decisions.
-- Mendez’s earlier name is now Lomeli Lopez. Her age 43 and upload age 31 can fit a 2061 upload and 2068 return; exact dates remain unspecified.
+- Mendez’s name is Lomeli Mendez (author-confirmed; “Lopez” was an earlier variant). Her age 43 and upload age 31 can fit a 2061 upload and 2068 return; exact dates remain unspecified.
 - The timeline’s older simultaneous/everyone-returned claim differs from the manuscript’s remaining sleepers and two return waves.
 - First Spring’s 2057–2058 boundary remains provisional.
 - Sharma’s allegedly unrecordable voice and Chapter 4’s amplifier need reconciliation.

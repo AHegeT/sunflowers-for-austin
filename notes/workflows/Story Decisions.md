@@ -5,7 +5,7 @@ Author-confirmed choices from the Chapter 2 review. These supersede the conflict
 ## Confirmed reference facts
 
 - Monty’s full name: **Baltazar Montante**.
-- Principal: **Lomeli Lopez**.
+- Principal: **Lomeli Mendez**.
 - Paloma’s hair: **curly black**.
 - Natalia’s missing memories: **a decade**, not five years.
 - Natalia and Monty’s separation: **13 years** (provisional author choice).

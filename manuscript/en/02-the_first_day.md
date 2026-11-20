@@ -1,3 +1,10 @@
+---
+title: "The First Day"
+status: "Draft"      # Options: Draft, Polished, Final
+concept_art: "/assets/concept-art/chapter2_courtyard.jpeg"
+last_updated: 2026-11-20
+---
+
 The world was dying--burning. So we built an ark to carry us into the future. We would sleep for centuries while the world healed, and dream of Utopia.
 But our vessel failed one day, just for half of us, and we woke up to a world that no longer wanted us nor could hold us.
 For the few that refused, this was like the dead rising up from their graves.
@@ -19,7 +26,7 @@ So why did she care? And why did she care so much?
 This past "mentor" of hers had barely mattered. She barely knew him for 2 years, and he mostly taught her how to conduct boring surveys of people going into the [Yosemite-C](guide/glossary.md#yosemite-continuum).  
 So why did she care? Why care for this old, grumpy man who was drunk half the time she saw him and who had the nerve to call her to another country, away from her work and her life, only to commit suicide as theater. "He probably only did it because he knew I was coming".
 
-Determined to move on from this chapter, and to not give him the sick satisfaction he so desired, she decided to use the tools from ther [somatic override](guide/glossary.md#somatic-override) practice to leave the mess behind. So she closed her eyes and…tap, tap, tap…it was gone. It was a new day and she didn't have time to sit around and mope.
+Determined to move on from this chapter, and to not give him the sick satisfaction he so desired, she decided to use the tools from the [somatic override](guide/glossary.md#somatic-override) practice to leave the mess behind. So she closed her eyes and…tap, tap, tap…it was gone. It was a new day and she didn't have time to sit around and mope.
 
 ## Back in Action
 
@@ -31,7 +38,7 @@ She greeted Natalia and carried on with her day, Monty was dumbstruck.
 
 — You seem well.
 
-Monty had a silly smile on his face. His mountainous figure took up most of the tiny room inbetween the kitchen and the livingroom. The house was quaint and she wasn't sure about the details of the arrangement. They arrived in the middle of the night and she hadn't had much interaction with Miss Lina, other than coldly refusing the meals she made for her.
+Monty had a silly smile on his face. His mountainous figure took up most of the tiny room in between the kitchen and the living room. The house was quaint and she wasn't sure about the details of the arrangement. They arrived in the middle of the night and she hadn't had much interaction with Miss Lina, other than coldly refusing the meals she made for her.
 
 — Sorry, let me help you with this\!
 
@@ -86,7 +93,7 @@ It had clearly come a long way, since there were people working on further resto
 
 — They say they connect to the city center, more than a century old. But that's just what people like to say.
 
-It was hard to find architecture this old in Austin. Most of the building were modernized, with a small collective working to protect the historical buildings. Her city didn't appreciate anything that wasn't from the 30s, it seemed. At least they still had Scholz.
+It was hard to find architecture this old in Austin. Most of the buildings were modernized, with a small collective working to protect the historical buildings. Her city didn't appreciate anything that wasn't from the 30s, it seemed. At least they still had Scholz.
 
 Something else caught her attention.
 
@@ -147,7 +154,7 @@ They moved on to the Principal's office after a long wait. Natalia's class was m
 
 — N- That she said she'd be right with us and it's been 5 minutes?
 
-— M- I'm not surpised. People don't see 5 minutes here like they do in Austin.
+— M- I'm not surprised. People don't see 5 minutes here like they do in Austin.
 
 — N- Then what were you referring to?
 
@@ -173,7 +180,7 @@ She tried to stop thinking about her missing decade and started tapping lightly 
 
 — M- Awful. …and how are you in Austin?
 
-— N- Good. I really like my job. I work for Apex Galilei and I'm an L42, so I should be able to make director in 3 years if I get my publication approved approved. Being here should help with the wait.
+— N- Good. I really like my job. I work for Apex Galilei and I'm an L42, so I should be able to make director in 3 years if I get my publication approved. Being here should help with the wait.
 
 — M- And that means?
 
@@ -203,6 +210,8 @@ She tried to stop thinking about her missing decade and started tapping lightly 
 
 — N- Yes...a bittersweet dream.
 
+![Concept Art](assets/concept-art/chapter2_courtyard.jpeg)
+
 The Principal comes out. She has big hair and is wearing a lot of jewelry.
 
 — P- Hello, hello. I'm the Principal, [Lomeli Mendez](guide/people/mendez.md). I must say, what a pleasure to have you here! You must be Natalia Sunday! To have one of Dr. Leon's apprentices with us\!
@@ -225,7 +234,7 @@ The Principal comes out. She has big hair and is wearing a lot of jewelry.
 
 — N- It's not quite--
 
-— P- Of coure, of course, take your time...but don't waste any \! Haha, you know what they say, haste makes waste, but there is no waste like the time spent in waiting \! Now, off you go and best of luck on your first day, dear\! Call for me at any sign of distress\!
+— P- Of course, of course, take your time...but don't waste any \! Haha, you know what they say, haste makes waste, but there is no waste like the time spent in waiting \! Now, off you go and best of luck on your first day, dear\! Call for me at any sign of distress\!
 
 — N and M- ...
 
@@ -247,7 +256,7 @@ Everyone stood up and started chanting in unison, "Hello, miss Natalia." Then th
 
 Nobody moved, they didn't even react. Did they know? This might be easier than she expected.
 
-— N- Your syllabus says you were learning about the Guilded Age.
+— N- Your syllabus says you were learning about the Gilded Age.
 
 Not a single voice was heard. She was unsure if her translation box was working properly.
 
@@ -259,7 +268,7 @@ She realized she was being overcome by the mess again, so she closed her eyes fo
 
 Natalia didn’t look at the students. She looked at the dust motes dancing in the shafts of light from the high colonial windows.
 
-— N-"The [2030s](guide/chronology.md#gildeP-age) were a period of great economic development and social unrest that was just as big'" she said, her voice sounding like a recording even to herself. "Some refer to this as [The Gilded Age](guide/chronology.md#gilded-age), some others as [The Great Decay](guide/chronology.md#gilded-age). We all know what it led to in 2039, but let's first examine the conditions and circumstances that lead some to believe this was the greatest decade of the world."
+— N-"The [2030s](guide/chronology.md#gilded-age) were a period of great economic development and social unrest that was just as big" she said, her voice sounding like a recording even to herself. "Some refer to this as [The Gilded Age](guide/chronology.md#gilded-age), some others as [The Great Decay](guide/chronology.md#gilded-age). We all know what it led to in 2039, but let's first examine the conditions and circumstances that lead some to believe this was the greatest decade of the world."
 
 The lecture continued without a hitch, she was able to deliver the whole plan, remembering each note in the notebook with pinpoint accuracy. Her training had prepared her well. With a confident face, she said
 
@@ -308,7 +317,7 @@ Faint memories of Leon started to well up. Thinking of going through his things 
 The next day, she started the lecture like she did the first time. She didn't want to let the intrusive thoughts pop in, but perhaps she could be more present to learn about her students. She was going to be doing this for the upcoming months, so perhaps collecting some more data and understanding her students could be beneficial.
 She didn't rely on the override this time. She trusted herself to focus on the concepts and the notes she has studied.  
 She started noticing something odd…the students were constantly tapping at their desk with their fingers. She carried on.  
-In the middle of a sentece, 3 students started laughing out of nowhere. She stopped and they shut up. The tapping intensified. Perhaps this was a way in which the younger generation was dealing with stress. After all, they were teenagers undergoing puberty and new to the 10th grade. She was about to remember what it must've been like for her, but her training stopped her on the spot. "This could trigger an episode". She knew by now that reflecting on experienes as old as this, could have some very bad side effects. And she wasn't going to let her perfect streak end. So she composed herself and carried on.
+In the middle of a sentence, 3 students started laughing out of nowhere. She stopped and they shut up. The tapping intensified. Perhaps this was a way in which the younger generation was dealing with stress. After all, they were teenagers undergoing puberty and new to the 10th grade. She was about to remember what it must've been like for her, but her training stopped her on the spot. "This could trigger an episode". She knew by now that reflecting on experiences as old as this, could have some very bad side effects. And she wasn't going to let her perfect streak end. So she composed herself and carried on.
 
 In the middle of the lecture, she noticed a girl in the corner looking irritated.
 
@@ -329,13 +338,13 @@ All of a sudden, the other students burst out in laughter. The girl looked upset
 N- Did I miss something?
 
 The girl rolled her eyes and the tapping continued. It was just registering for her, but she realized it had been going on for the whole class.
-She decided to keep going with her lecture but now the tapping became ubiquituous. She could not ignore it. And she started noticing the glancing, the repressed laughter, the smirks.
+She decided to keep going with her lecture but now the tapping became ubiquitous. She could not ignore it. And she started noticing the glancing, the repressed laughter, the smirks.
 They were not listening to her lecture, they were making fun of her.
 
-Memories of her teenage years starting coming up, feelings of embarrassment of being just a girl. The emotions overwhelmed her and she tried to connect with her training. She remebered Leon and her years learning under him, the years--the months... When was this? Did she really study under Leon? Where else did she feel like these?
+Memories of her teenage years started coming up, feelings of embarrassment of being just a girl. The emotions overwhelmed her and she tried to connect with her training. She remembered Leon and her years learning under him, the years--the months... When was this? Did she really study under Leon? Where else did she feel like these?
 She felt like a thread of memories had gotten stuck on a ring and her emotions were pulling faster and faster on it. She tried to remember her younger years, she tried to remember when she finally broke through that early insecurity and found...nothing. There was a vast chasm in her mind, between who she used to be and who she was now. She tried anchoring herself with her training, but what training? She was just a girl. She was 21--no, 26, no, 31, no, 37. She was 37-years-old\!
 She was not much older than these kids just a few years ago and now she was a grown woman\! With no memories, with no growth, with nothing but decline ahead of her\!
-She felt her stomach drop, like she had just opened her eyes on a rollercoaster, just before the scaried and highest of falls.
+She felt her stomach drop, like she had just opened her eyes on a rollercoaster, just before the scariest and highest of falls.
 There was none of her training left and she felt a familiar wind pick up.
 
 Girl- Miss...are you okay?
@@ -345,7 +354,7 @@ Like a wave taking over her, she had to wait for the tumbling to stop before she
 She was ready for the whirlwind to make way to a vastness of red, when she felt something on her shoulder.
 Her shoulder? She was able to connect with the rest of her body just by finding her one shoulder, until she eventually found her own gaze.
 
-She was sitting on some stairs, face cradled by her arms and knees, with tears streaming down her face. She had never had an episode like this. She lift her face and turned to her right.
+She was sitting on some stairs, face cradled by her arms and knees, with tears streaming down her face. She had never had an episode like this. She lifted her face and turned to her right.
 
 Girl- There, there.
 
@@ -354,7 +363,7 @@ She cleaned off her tears and looked at her, but no words came out.
 
 Girl- They're so lame. You shouldn't waste your tears on them.
 
-The girl had curly balck hair, medium length, and she was wearing a bandana. She sat down next to Natalia, knees up, just like her.
+The girl had curly black hair, medium length, and she was wearing a bandana. She sat down next to Natalia, knees up, just like her.
 
 Girl- They're always like this. I'm surprised you noticed so quickly. They were just starting to ramp up. 
 
@@ -402,7 +411,7 @@ N- Haha, yes. I'll see you tomorrow, Paloma.
 
 Paloma- Later, /Tich/ \!
 
-She went back to pick her things and walked in, back straight, into the classroom. She faced the classroom and took the time to look into each of their faces. It was the first time she was really looking into them. She saw past the smirks, the mocking looks and the general expecatation to see if she would break again.
+She went back to pick her things and walked in, back straight, into the classroom. She faced the classroom and took the time to look into each of their faces. It was the first time she was really looking into them. She saw past the smirks, the mocking looks and the general expectation to see if she would break again.
 These were just kids. There were 8 of them. To the left, a girl with a shy smile, a dress and elaborate braids, then a serious girl wearing a track suit and long, straight hair, then a very tall boy on the first row. In the second row, an empty desk, then a girl with short hair and very detailed makeup, next to a boy with short hair and a prominent nose with an impish smile.
 In the back row, there was a boy in a hoodie staring out the window with sleepy eyes, a bored boy with long hair, and finally Paloma in a corner.
 
@@ -430,7 +439,7 @@ N- Regular stuff. I can't remember.
 
 M- You might want to pay more attention. You're doing a new thing at a new country. It's ok if things feel overwhelming. It will take time to adapt, you're learning.
 
-N- I gues… Where should we go?
+N- I guess… Where should we go?
 
 M- I found him in a secret room, past his lab.
 
@@ -460,7 +469,7 @@ M- This is where I found him. I wasn't sure what he was getting up to, so I said
 
 N- So that's why you're so sure.
 
-M- Nobody could've found him here. I thought I was the only one who knew about this technology…I helped make it seem like suicide because I didn't see any other possibilty.
+M- Nobody could've found him here. I thought I was the only one who knew about this technology…I helped make it seem like suicide because I didn't see any other possibility.
 
 N- He sent the book himself, so I don't know if anyone else knows.
 
@@ -468,13 +477,13 @@ M- Still.
 
 N- How did he do it?
 
-M- Mycellium again. They grew inside his body. It's a very peaceful way to go. The spores make you sleepy, taking all the oxygen. Then they ate into his internal organs.
+M- Mycelium again. They grew inside his body. It's a very peaceful way to go. The spores make you sleepy, taking all the oxygen. Then they ate into his internal organs.
 
 N- Could it have been an accident?
 
 M- No, you need to feed the spores. And for them to grow, you need to undergo a cleansing. This was a ritual death.
 
-They feel like someone might be watching them. Or it might just be the oppresive feel of the room. They decide to leave.
+They feel like someone might be watching them. Or it might just be the oppressive feel of the room. They decide to leave.
 
 ## The third class
 
@@ -492,9 +501,9 @@ The girl looked scared and panicked. She took a moment to compose herself, looke
 
 P- [Paloma](guide/people/paloma.md). And the question was?
 
-She heard snickering and held laughters all around the classroom. Clearly something was going on…
+She heard snickering and held laughter all around the classroom. Clearly something was going on…
 
-N- "Years of the Hum". Do you know why they was called that? A clue, perhaps, is to think about the noise you would hear with all that construction going on.
+N- "Years of the Hum". Do you know why they were called that? A clue, perhaps, is to think about the noise you would hear with all that construction going on.
 
 P- I don't know. Maybe because they were so boring?
 
@@ -502,7 +511,7 @@ N- Excuse me?
 
 P- Who cares what they called it? That was so long ago. Woop, woop. We killed the bad AI. We weren't even alive back then.
 
-N- But your parents probably were, imagine the raminifactions of--
+N- But your parents probably were, imagine the ramifications of--
 
 P- So what? Are you going to lecture us about the ramification of every single event in history? Did you know we could be doing actual things with our time here? Instead of being stuck inside listening to you.
 
@@ -518,9 +527,9 @@ N- That is enough for today. Class dismissed.
 
 She grabbed her briefcase in one hand and the notes in the other, she walked calmly to the door, and sprinted away as soon as she crossed the frame. She could hear boisterous laughs behind her. The students on the hall joined in as they saw a teacher crying and running away from her class.
 
-She went to the library, but there were too many kids there, so she went to the stairs next to it, where there was nobody. She couldn't cry anymore, she was just craddling her legs, feeling this terrible wrangling in her stomach. She knew that was probably shame, and the memories of her childhood started flooding in.  
+She went to the library, but there were too many kids there, so she went to the stairs next to it, where there was nobody. She couldn't cry anymore, she was just cradling her legs, feeling this terrible wrangling in her stomach. She knew that was probably shame, and the memories of her childhood started flooding in.  
 Her childhood had never been like that. She grew up with supportive friends. It would be whimsical and fun, never…painful. Her training did not help, other than to stop her from having a full on panic attack. She felt so stupid. A therapist who couldn't give a lecture to highschool students or even calm down after the fact.  
-She heard some foosteps coming down the stairs toward her, and she quickly composed herself as best she could. Monty must've heard all the ruckus and gone looking for her, but how did he find her?
+She heard some footsteps coming down the stairs toward her, and she quickly composed herself as best she could. Monty must've heard all the ruckus and gone looking for her, but how did he find her?
 
 — I'm sorry…
 

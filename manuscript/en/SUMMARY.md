@@ -21,7 +21,7 @@
     - [Cuernavaca](guide/people/groups/cuernavaca.md)
       - [Miss Lina](guide/people/lina.md)
     - [The school](guide/people/groups/school.md)
-      - [Directora Lomeli Lopez](guide/people/mendez.md)
+      - [Directora Lomeli Mendez](guide/people/mendez.md)
     - [Green Gloves](guide/people/groups/green-hands.md)
       - [Julia Valdesienne](guide/people/julia.md)
     - [The Unseen and world leadership](guide/people/groups/unseen.md)

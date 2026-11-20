@@ -115,7 +115,7 @@ She represents the Mother, eventually coming to believe we must understand the t
 - **Full Name:** Paloma Soliz
 - **Age:** 15, born 2058
 - **Occupation:** High School Student at Marymount Cuernavaca.
-- **School role:** Prefect, appointed by Directora Lomeli Lopez to report misconduct.
+- **School role:** Prefect, appointed by Directora Lomeli Mendez to report misconduct.
 - **Hometown:** Cuernavaca
 
 #### Physical Description
