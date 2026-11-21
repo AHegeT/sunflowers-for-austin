@@ -5,7 +5,7 @@ concept_art: "/assets/concept-art/chapter2_courtyard.jpeg"
 last_updated: 2026-11-20
 ---
 
-The world was dying--burning. So we built an ark to carry us into the future. We would sleep for centuries while the world healed, and dream of Utopia.
+The world was dying-- burning. So we built an ark to carry us into the future. We would sleep for centuries while the world healed, and dream of Utopia.
 But our vessel failed one day, just for half of us, and we woke up to a world that no longer wanted us nor could hold us.
 For the few that refused, this was like the dead rising up from their graves.
 For the rest of us, the Yosemite-C was the dream and real world was Purgatory.
@@ -209,8 +209,6 @@ She tried to stop thinking about her missing decade and started tapping lightly 
 — M- So it's just like one big dream you can't remember?
 
 — N- Yes...a bittersweet dream.
-
-![Concept Art](assets/concept-art/chapter2_courtyard.jpeg)
 
 The Principal comes out. She has big hair and is wearing a lot of jewelry.
 
@@ -429,135 +427,222 @@ It was time to teach Group Theory.
 
 It's an old building. With plants coming in from the outside. A mix of technology and old architecture.  
 
-M- This place is not actually that old. It was built in the [2030s](guide/chronology.md#gilded-age).
+Monty and Natalia had been going through the different things scattered around, putting them in bags to sort out later. For now, they just needed the place to not reek of Leon.
 
-N- I was just giving a lecture on that.
+M- We should be about done now. I just need to move this chest later.
 
-M- Yeah, what was it about?
+N- Really? You made it seem like there was much more.
 
-N- Regular stuff. I can't remember.
+M- Well...I didn't want you to deal with it, you've already helped out a lot. It's just the lab that's left?
 
-M- You might want to pay more attention. You're doing a new thing at a new country. It's ok if things feel overwhelming. It will take time to adapt, you're learning.
+N- There's a lab?
 
-N- I guess… Where should we go?
+M- Yes, it's underground, hidden--
 
-M- I found him in a secret room, past his lab.
+N- Of course.
 
-They go to the basement, where the lab is. It's full of vials, strange contraptions, plants and machinery.   
+M- Right. That's actually where I found him. His remains.
 
-N- How did you figure it out?
+N- Then yes, I want to help. You shouldn't be the only one having to deal with this.
 
-M- [Haliatus mycelium](guide/glossary.md#haliatus). We were studying the technology together. I realize that this here looks like a breathing conch.
+M- Are you sure? You're already having to adapt to a new country, a new school, the news--
 
-Natalia immediately recognizes the same one.  
+N- Thanks for worrying, but let's just get it over with.
 
-N- Wait a minute. He gave me something just like that\!
+They go to the basement, it looks like a typical, cramped cellar. Monty puts his hand on the wall, takes a deep breath and breathes out on the wall surface. It slides around to reveal small vines that were forming that section of the wall. They revealed a much bigger chamber, where the lab is. It's full of vials, strange contraptions, plants and machinery.
 
-M- What?
 
-N- This old book, like a [grimoire](guide/glossary.md#codex). It reveals itself when I breathe into the conch.
+N- What was that?
 
-M- But he wasn't supposed to have figured it out yet.
+M- [Haliatus mycelium](guide/glossary.md#haliatus). We were studying the technology together. It's a type of fungus that reacts to the bio-signature of the breath. It's not very secure, but he always liked his games.
 
-N- Let me show it to you when we're back home.
+N- A fake wall and a hidden lab sounds right up his alley.
 
-M- Okay. Let me show you the room past this. Just as the breath conch can be used to create the structures, it can also be destroyed. You just need to put pressure, let go, and press again.
+M- Exactly. I've been to this lab before, but I didn't think much of the wall at first, I figured he had just blocked off the bad memories.
 
-He does this against a wall and it comes undone. Reveals a door. In the next room, there is a chair and many annotations on walls and boards.  
+N- He didn't have a great time here, huh?
 
-M- This is where I found him. I wasn't sure what he was getting up to, so I said I found him in the main lab. That he was hunched over and that's why I didn't find him at first.
+M- Just look around. The place is covered in notes and misery. I stopped working with him a few years ago. He spent most of his time cooped up after that.
 
-N- So that's why you're so sure.
+N- I wonder if his message to me was a cry for help...
 
-M- Nobody could've found him here. I thought I was the only one who knew about this technology…I helped make it seem like suicide because I didn't see any other possibility.
+M- I'd rather we don't keep discussing the subject. I tried to help him, I really did.
 
-N- He sent the book himself, so I don't know if anyone else knows.
+N- I know... He did leave something for me that relies on that technology. The...fungus thing. It's a conch that turns into a book of sorts. It looked like straight out of a fantasy story!
 
-M- Still.
+M- Like so many things with Leon did. He was the master of smoke and mirrors. He really paved the road to hell...
 
-N- How did he do it?
+Natalia decided to stop prying. She realized Monty was trying to open up for her sake, but there were many memories he'd rather not touch. Just being here should stir up a lot of pain for him.
 
-M- Mycelium again. They grew inside his body. It's a very peaceful way to go. The spores make you sleepy, taking all the oxygen. Then they ate into his internal organs.
+N- Actually, why don't you help me out with something? We can sort out the lab later.
 
-N- Could it have been an accident?
+M- What is it?
 
-M- No, you need to feed the spores. And for them to grow, you need to undergo a cleansing. This was a ritual death.
+N- My students. I had a slip up today but it led to me connecting with one of them, a girl, Paloma.
 
-They feel like someone might be watching them. Or it might just be the oppressive feel of the room. They decide to leave.
+M- Paloma Soliz? I know her. Very smart.
 
-## The third class
+N- *Very*. But she's being bullied, and there's a strange dynamic in the classroom.
 
-N- …and then, we defeated the [AI god](guide/glossary.md#oculus) with nothing but human ingenuity and smarts.
+M- It's likely that she's a Remainer and the other kids are Returners.
 
-She then allowed the mess to rise again and she noticed everyone was looking at her, but not listening to her. The students were tapping at their desks madly now. She started feeling uncomfortable, so she tried to disengage. But before that, she noticed the girl next to the window was completely out of it. She tried to capture her attention.  
+N- Maybe, I need to test out some hypotheses first.
 
-N- Does anyone know why those years are known as the [Years of the Hum](guide/chronology.md#hum)?
+Natalia got out her notebook and started drawing the seating arrangement.
 
-Complete silence.  
+## The experiment
 
-N- Over by the window, miss…?
 
-The girl looked scared and panicked. She took a moment to compose herself, looked around and instantly her face went back to being unfriendly.  
+Claus | Shaggy | Paloma
+Empty | Daniela | Nestor
+Aimé | Valeria | Santiago
+Teacher's desk
 
-P- [Paloma](guide/people/paloma.md). And the question was?
+She had 8 students and 9 desks. Paloma was in the corner and Daniela, who was always dressed up and Valeria's best friend in the middle. Clearly the queen bee, she thought.
+She needed to get her away from Paloma and see how much leeway she had, so she swapped her with Santiago, the class clown. His energy up and center would reveal much about the group.
 
-She heard snickering and held laughter all around the classroom. Clearly something was going on…
+The next day, they resumed their work in the lab. Natalia would talk about their progress while Monty listened.
 
-N- "Years of the Hum". Do you know why they were called that? A clue, perhaps, is to think about the noise you would hear with all that construction going on.
+N- So Daniela complied with the change. It was as I expected, Santiago was extremely nervous about the change. He makes loud jokes when he's nervous, which bothered Daniela. She is the queen bee, but even at a distance, she kept her grip on Paloma, on the whole class, really. Halfway through the class, she told Santiago to go "fetch her a book".
 
-P- I don't know. Maybe because they were so boring?
+M- She kicked out a student from your class??
 
-N- Excuse me?
+N- She did. But I asked Valeria, her sidekick, if she could go with him and they did without a hitch. Valeria will do anything she asks, so she's likely the enforcer of the class.
 
-P- Who cares what they called it? That was so long ago. Woop, woop. We killed the bad AI. We weren't even alive back then.
+M- What are you doing next?
 
-N- But your parents probably were, imagine the ramifications of--
+N- I want to see how far I can take it. I'll move Paloma up front and have Valeria as a buffer.
 
-P- So what? Are you going to lecture us about the ramification of every single event in history? Did you know we could be doing actual things with our time here? Instead of being stuck inside listening to you.
+The next day, Natalia came back with intriguing news, which excited her.
 
-The tapping and the snickering grew. Natalia became upset.
+N- So it did not work.
 
-N- Could you stop it with the tapping?? What is going on???
+M- Then why are you so happy?
 
-One of the kids raised his hand and looked at Paloma. "Ooh, miss prefect, you better get on with stopping that unruly behavior, no?". Everyone started laughing, and the added tapping became cacophonous.
+N- Becuase I touched a nerve. I tried swapping Paloma and Aimé, the sweet girl with pigtails who always comes in wearing a dress. She's always friendly and ready to help, but she has no friends. She spends recess alone with her dolls. She's key.
 
-Natalia quickly became overwhelmed. She realized they had all been laughing at her…
+M- Key to what?
 
-N- That is enough for today. Class dismissed.
+N- She's a Returner, clearly. Innocous enough to sit next to the main group, but not to be a part of it. She took Paloma's seat in the back, but Paloma wasn't allowed to sit in the front. She took the empty seat.
 
-She grabbed her briefcase in one hand and the notes in the other, she walked calmly to the door, and sprinted away as soon as she crossed the frame. She could hear boisterous laughs behind her. The students on the hall joined in as they saw a teacher crying and running away from her class.
+Claus | Shaggy | Aimé
+Paloma | Nestor | Santiago
+Empty | Daniela | Valeria
+Teacher's desk
 
-She went to the library, but there were too many kids there, so she went to the stairs next to it, where there was nobody. She couldn't cry anymore, she was just cradling her legs, feeling this terrible wrangling in her stomach. She knew that was probably shame, and the memories of her childhood started flooding in.  
-Her childhood had never been like that. She grew up with supportive friends. It would be whimsical and fun, never…painful. Her training did not help, other than to stop her from having a full on panic attack. She felt so stupid. A therapist who couldn't give a lecture to highschool students or even calm down after the fact.  
-She heard some footsteps coming down the stairs toward her, and she quickly composed herself as best she could. Monty must've heard all the ruckus and gone looking for her, but how did he find her?
+M- So she's not comfortable with the other two girls.
 
-— I'm sorry…
+N- Not quite. Paloma doesn't care. But I stepped out for a minute and the whole seating arrangment had changed Daniela sat in the middle, seemingly asserting control, but Nestor and Santiago changed spots.
 
-A smaller body sat down next to her. Her arms folded over her legs.
+M- Who is Nestor?
 
-— I thought it would help me. Maybe if I said what everyone was thinking…
+N- Smart kid, very anxious energy, a Remainer and the jailer of the group.
 
-Natalia turned around to find the girl with curly black hair.
+M- There's a jailer?
 
-— It would stop them from picking on me.
+N- Figuratively. If he wasn't there, Paloma would be free to speak with Claus, the kid in the back who's always looking out the window and day dreaming. He's best friends with Santiago, which is why I thought I'd sit them closer to one another.
 
-Natalia wasn't sure what to make of this girl. Her instinct was to go back to the teacher persona, but she thought of what Monty said. Maybe this was a new opportunity.  
+M- Sounds like the queen bee has an iron grip on the group.
 
-N- Why…do they pick on you?
+N- There's something else going on here... I was expecting Nestor to be nervous, even more so than usual, but he was perfectly calm in the middle, even confident.
 
-P- I don't know. They're probably too lame to know why themselves. But…when you went all monotone into your robot mode, I understood that. You were no longer messy, just delivering fact after fact. I like this guy you were talking about, even if he's like a hundred years old.
+M- You're already helping these kids thrive.
 
-N- Two hundred, actually.
+N- No...this is a false peace.
 
-P- Ah, who cares. He was still spitting fire.
+The next day she came deflated. She tried having Aimé sit in the middle, only to find everyone back in their original seating arrangements. Daniela said it "was enough tomfoolery".
 
-N- I guess he was. I'm sorry they pick on you…
+M- So you reached the group's breaking point?
 
-P- Paloma.
+N- No that's not the problem. I wanted to break the status quo to help them find new ways to interact with each other. But the group has adapted. Paloma was able to answer a question.
 
-N- Nice to meet you, I'm Natalia. Have you tried asking them why?
+M- I don't understand. That's good, no?
 
-P- Asking them why I'm not normal? Actually, I have and I think that's part of the problem. Turns out if you ask people how to be normal, they tell you anything but. They're all lame, though.
+N- She was allowed to answer. Whatever dynamic was forcing her to stay quiet has changed, the group caught on to what I was doing and it reorganizded itself to incorporate my meddling. I'm going to have to be more direct to figure out the root cause.
 
-N- Perhaps…they know…they just put it all on you. Come. What's your next class? Actually, let's do it tomorrow. What's your first class tomorrow?
+Natalia tried rearranging the seats again, different groups for assignments and the friction was gone. Someone had full control of the dynamic and they were directing the outcome before she could anticipate it. Probably through the secret group chat.
+She needed them to lower their barriers to stop the group from bullying Paloma in other classes. She didn't just want to create a temporary respite.
 
+N- So I decided to ask.
+
+They were nearly done with the cleaning of the basement lab. It has been a full week since her experiment began, and she finally hit a break through.
+
+N- I asked them about their experience with the Download.
+
+M- Just now?
+
+N- If I asked about it before, I would've split the group further. Nothing is more alienating than knowing your peers have full years of life that you missed, especially at this age. Martinez et al have insightful papers on the subject.
+
+M- And beyond their studies? What do you feel like this group needs?
+
+N- Well, my notes show there is a rigid structure and they are intimidated by Paloma.
+
+M- So that is the current state. What do they need?
+
+N- Erikson would say they need a stable sense of self. They are defining themselves by their roles.
+
+M- Is that what you think or what you are sensing?
+
+The next day Natalia showed up with that quotion on her mind. "Both" was the obvious answer to her, but she wanted to test it.
+
+It was a Thursday and by the end of the day, she knew exactly what she had been missing. Friday was the day to enact the change.
+
+The kids were working on their group projects: They were all exploring the decade of the 2060s according to different perspectives with one single aim: What would they have done had they been in charge.
+
+Paloma, Claus and Nestor were working on the technological perspective; Aimé, Daniela and Santiago on the social perspective; Shaggy, Valeria and herself on the governance perspective.
+She had done everything according to the theory and they were working well. Paloma and Claus were talking excitedly about how they would've handled the upload of billions of people to a digital space.
+Daniela was leading her group, with the other two happily collaborating to explore the challenges of getting people to agree on a solution to the tsunami of problems.
+Valeria was okay being away from Daniela because she was with Natalia. She needed an authority figure to feel at ease and release her creativity. Meanwhile, Shaggy was collaborating, as expected.
+
+Paloma's group went first, talking about the complexity of building sleeping pods from the ground up with the fractured infrastructure of the 2060s. These pods needed to be deployed quickly and be able to support humanity for decades or even centuries. They would have used infrastructure from the Cradles, admitting that they agreed with the course of action of the leaders of the past.
+
+On the surface, she had succeeded. The spirits were high and Paloma had been able to contribute to her full capability. This was a far cry from the quiet group the met on the first day. But she wasn't done.
+
+Her group was next. She gave the introduction and Valeria elaborated on the topic, then it was Shaggy's turn, the usually quiet and aloof student's turn.
+
+N- We're listening, Shaggy.
+
+S- Sure, whatever. In conclusion, we think the decision to upload most people was stupid and the people making the call were idiots. Thank you.
+
+Everyone laughed. It was a relieved laughter, the type that would've fooled her earlier.
+
+N- We do. But that's not all, is it, Shaggy?
+
+S- Well, yeah. It was idiotic beyond belief. Who let's a 9 year-old upload her brain to a machine?
+
+The group was silent. Valeria shifted uncomfortably.
+
+S- Hey, Claus. How old are you? Without using your fingers? Nestor, how old are you?
+
+Nestor- 15.
+
+S- We know what you've been trying to get at, Miss Sunday. You think we shouldn't be in the same group because we're not the same age, mentally. But you're wrong. You and your people have been so wrong about everything and all you did was royally screw us in the process. We know you want to break us apart to "teach us at our pace" or whatever, but what we need is to stick together. This world is messed up but we'll fix it ourselves, we don't need some Austinite like you coming to tell us what to do.
+
+Everyone was shocked, looking expectantly at how Natalia would react. She had a smirk on her face that she was trying to hide.
+
+"He finally blew up." She recounted to Monty later that afternoon.
+N- The thing I was missing what that Daniela wasn't the group leader and she wasn't doing it for status. Status was her reward, yes, but the leader was Ignacio, Shaggy. He was quiet and unnassuming, but he's always been the leader of the pack. He, alongside Paloma, are the oldest of the group. And 2 of the 3 Remainers.
+Daniela was bullying Paloma to keep her in her place and to let Shaggy guide them. The school has been creating special groups based on learning rates and this class was next. Shaggy was trying to keep the group together, even if it meant keeping them down.
+
+M- But he confronted you directly. How does that help you change their dynamic?
+
+Natalia recounted the next part. 
+Daniela started presenting with confidence about the challenge of organizing people during a global crisis after governments had collapsed in previous decades. She explained the fear people must've felt and how they needed to pretend everything was business as usual. Uploading into the Yosemite-C likely felt like a comforting lie to people, despite some seeing it as a death sentence. But it was a shared dream, in a decade where people had stopped being able to believe in anything.
+Her voice started to crack and her mascara to come off. She eyed the door, likely thinking of bolting out before she made a fool of herself, but Natalia eyed Aimé next to her, and she placed her head gently on Daniela's shoulder. Santiago cracked a joke and the class laughed briefly, then continued to listen to what she had to say.
+
+Instead, Daniela started to cry, they were angry tears as she muttered "it's not fair, it's not fair". The group gathered around her to console her, but the feeling was pervasive.
+They were all kids whose lives had been upended and they were just supposed to carry on like nothing happened, because the adults needed some normalcy in their lives.
+Paloma gave Natalia a cheeky smile, clearly mustering all her strength to stop from making fun of Daniela.
+Natalia felt at ease. She might not know enough to teach history, but she felt like there was something she could bring to these kids.
+Maybe Leon wasn't so mistaken after all.
+
+The door bolted open in that moment. Principal Lomeli yelled "what is going on?!" the group quickly went back to their seats and cleaned up their faces. Natalia stood up straight.
+
+L- Miss Sunday, I heard you had...unorthodox teaching methods, but making students cry during school hours? Is this some kind of sick torture?
+
+N- No, we were just doing presentations and emotions ran high.
+
+L- *They* were doing presentations, correct? Why do I see your name in one of the groups? Do I need to remind you that your role here is to help these kids catch up on half a decade of learning? Do you know what will happen if we lag behind?
+Stick to the rules or we will have to reevaluate your position.
+
+![Concept Art](assets/concept-art/chapter2_courtyard.jpeg)
