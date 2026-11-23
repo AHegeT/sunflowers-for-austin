@@ -371,7 +371,7 @@ Girl- Making fun of you? Yes, obviously. They're using my haptic glove.
 
 N- Your...?
 
-Girl- It's this stupid thing I made. It's paired gloves communicating over short-range bluetooth, kinetic signals and micromovements convert to stored representations in the t-box which is then broadcasted to the surroundings. You don't /have/ to pair your gloves, but it helps with latency. The important thing is the embeddings representation in their t-box that allows them to read it as a group chat.
+Girl- It's this stupid thing I made. It's paired gloves communicating over short-range bluetooth, kinetic signals and micromovements convert to stored representations in the t-box which is then broadcasted to the surroundings. You don't *have* to pair your gloves, but it helps with latency. The important thing is the embeddings representation in their t-box that allows them to read it as a group chat.
 
 N- I don't follow. They have a group chat?
 
@@ -407,7 +407,7 @@ Girl- I know, you're our teacher. But yeah, I'm Paloma. Anyways, I need to get b
 
 N- Haha, yes. I'll see you tomorrow, Paloma.
 
-Paloma- Later, /Tich/ \!
+Paloma- Later, *Tich*\!
 
 She went back to pick her things and walked in, back straight, into the classroom. She faced the classroom and took the time to look into each of their faces. It was the first time she was really looking into them. She saw past the smirks, the mocking looks and the general expectation to see if she would break again.
 These were just kids. There were 8 of them. To the left, a girl with a shy smile, a dress and elaborate braids, then a serious girl wearing a track suit and long, straight hair, then a very tall boy on the first row. In the second row, an empty desk, then a girl with short hair and very detailed makeup, next to a boy with short hair and a prominent nose with an impish smile.
